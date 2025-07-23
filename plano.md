@@ -9,17 +9,18 @@ Máximo participantes: 15
 
 ## Objetivos
 
-- Introduzir os conceitos básicos de programação em Python.
-- Explorar bibliotecas populares para análise de dados, visualização e desenvolvimento web.
-- Produzir uma aplicação web simples com um projeto de data science.
+- Introduzir os conceitos básicos de programação em Python
+- Explorar desenvolvimento em Python em Jupyter Notebooks (Google Colab) e VSCode
+- Explorar bibliotecas populares para análise de dados, visualização e desenvolvimento web
+- Produzir uma aplicação web simples com um projeto de data science
 
 ## Público-alvo
 
 - Médicos interessados em aprender programação em python e que queiram utilizar para analise de dados.
 
-## Requisitos
+## Requisitos dos participantes
 
-- Computador portatil (Mac ou Windows (com privilégios de administrador para instalar software)
+- Computador portátil (Mac ou Windows (com privilégios de administrador para instalar software)
 - Ligação à internet
 - Conta Google para utilizar o [Google Colab](https://colab.research.google.com/)
 - [VSCode](https://code.visualstudio.com/download) instalado
@@ -42,6 +43,14 @@ Máximo participantes: 15
 | 17:30 - 18:00   | Abrir horizontes, perguntas e encerramento                    |
 
 \* (a sincronizar com o evento principal)
+
+## Material necessário à formação
+
+- Sala com mesas e cadeiras (para 20 pessoas)
+- Projetor e tela de projeção
+- Acesso à internet
+- Extensões elétricas
+- Máquina local + router (João)
 
 ## Lista temas para abordar
 
