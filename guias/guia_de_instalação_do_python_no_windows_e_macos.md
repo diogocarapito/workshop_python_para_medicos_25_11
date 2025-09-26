@@ -4,11 +4,11 @@
 
 ### Antes do workshop
 
-Instalação do Python 3.12 no Windows 11, com venv no VSCode
+Instalação do Python 3.13 no Windows 11, com venv no VSCode
 
 1. Download do VSCode a partir do site oficial: [code.visualstudio.com](https://code.visualstudio.com/).
 
-2. Download do instalador do Python 3.12 na Windows store: [Python 3.12](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=pt-PT&gl=PT).
+2. Download do instalador do Python 3.13 na Windows store: [Python 3.13](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=pt-PT&gl=PT).
 
 3. Execute o instalador e siga as instruções.
 
@@ -51,7 +51,7 @@ Instalação de VSCode, homebrew e venv no MacOS
 2. Após a instalação do Homebrew, instale o Python 3.12 executando:
 
 ```bash
-brew install python@3.12
+brew install python@3.13
 ```
 
 3. Verifique se o Python foi instalado corretamente executando:
