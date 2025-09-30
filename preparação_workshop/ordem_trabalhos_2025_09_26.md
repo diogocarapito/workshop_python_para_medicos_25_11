@@ -37,7 +37,7 @@ Duvidas:
 
 6. um venv para todo o projeto todo
 
-7. python 3.13 - rever instruções de instalaçoes em windows (joão) e macos (diogo)
+7. python 3.13 - rever instruções de instalaçoes em windows (joão/) e macos (diogo)
 )
 
 8. entregáveis (para além do código) na pasta dos guias, que inclui uma lista de cursos mais completos de python
