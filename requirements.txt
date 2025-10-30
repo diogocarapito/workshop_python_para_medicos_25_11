@@ -9,4 +9,3 @@ seaborn
 # streamlit
 streamlit
 watchdog
-
