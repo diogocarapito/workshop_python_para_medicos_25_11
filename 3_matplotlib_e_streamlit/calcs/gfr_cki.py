@@ -1,15 +1,15 @@
 def gfr_cki(age=30, creatinine=0.9, sex="Mulher"):
-    
+
     # Formula GFR KPI
     # 142 × (Scr/A)B × 0.9938age × (1.012 if Mulher)
 
     # Validações de entrada
     if creatinine <= 0 or creatinine is None or creatinine > 20:
         raise ValueError("Creatinina deve ser um valor entre 0 e 20 mg/dL.")
-    
+
     if sex not in ["Mulher", "Homem"]:
         raise ValueError("Sexo inválido. Deve ser 'Mulher' ou 'Homem'.")
-    
+
     if age < 0 or age is None or age > 120:
         raise ValueError("Idade deve ser um valor entre 0 e 120.")
 
@@ -50,7 +50,7 @@ def gfr_cki(age=30, creatinine=0.9, sex="Mulher"):
     gfr = (
         base_factor
         * (creatinine / coeficients[sex][src]["A"]) ** coeficients[sex][src]["B"]
-        * age_factor ** age
+        * age_factor**age
         * sex_factor
     )
 
@@ -61,22 +61,23 @@ def gfr_cki(age=30, creatinine=0.9, sex="Mulher"):
 
 
 if __name__ == "__main__":
-    
-    #Valores iniciais
+
+    # Valores iniciais
     age = 30
     creatinine = 0.9
     sex = "Mulher"
-    
+
     # Cálculo do GFR CKI
     gfr = gfr_cki(age, creatinine, sex)
-    
+
     # print dos resultados
-    print(f"""
+    print(
+        f"""
 Calculating GFR CKI with the following parameters:
 Age: {age}
 Creatinine: {creatinine}
 Sex: {sex}
 ---
 GFR CKI: {gfr} mL/min/1.73m²
-""")
-
+"""
+    )
