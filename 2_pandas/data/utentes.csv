@@ -1,0 +1,2478 @@
+nop,nome,idade,sexo
+1,Tomás Figueiredo,20,Mulher
+2,Alícia Soares-Amorim,23,Mulher
+3,Diego Pereira,50,Homem
+5,Filipe Fonseca-Carneiro,43,Homem
+6,Ângela Brito,50,Homem
+7,Vitória Santos,79,Homem
+10,Laura Fonseca,84,Mulher
+11,Renato Santos,34,Homem
+12,Kévim Melo,78,Mulher
+13,Anita de Costa,42,Homem
+14,Larissa de Costa,45,Homem
+15,Jorge Pinto,62,Mulher
+17,Amélia Correia,25,Homem
+21,Lúcia Amaral,28,Homem
+24,Cláudio do Faria,21,Homem
+25,Noa Marques,8,Homem
+26,Lorena-Eva Guerreiro,70,Mulher
+27,Isaac Loureiro,15,Mulher
+28,Joana Matias,63,Homem
+29,Jéssica Neto,43,Homem
+31,Larissa da Machado,14,Homem
+32,Nádia Rodrigues,65,Homem
+33,Bruna Faria,41,Mulher
+34,Lara Pinto,64,Mulher
+35,Filipa Pinheiro,72,Homem
+37,Frederico Ferreira,66,Homem
+38,Emma Henriques,80,Mulher
+39,Nelson Sá,77,Homem
+42,Lúcia-Caetana Anjos,69,Mulher
+43,Alice Santos,75,Mulher
+45,Petra-Kelly Lopes,40,Mulher
+46,Daniel Batista,36,Homem
+47,Emília Lopes,32,Mulher
+48,Erica Alves,45,Homem
+49,Yara Miranda,37,Mulher
+50,Petra Henriques,36,Mulher
+52,Lourenço Pires,8,Homem
+53,Teresa Macedo,50,Homem
+54,Emma Amorim,24,Homem
+57,Micael Faria,98,Homem
+58,Lisandro Magalhães,85,Homem
+60,Mafalda Morais,42,Mulher
+61,Amélia Carneiro,75,Mulher
+63,William Marques,4,Mulher
+65,Mia Sousa,47,Mulher
+66,Igor do Moreira,17,Homem
+67,Maria Teixeira-Cruz,34,Mulher
+68,Daniela-Núria Neto,41,Mulher
+69,Ismael Torres,48,Homem
+71,Mélanie Araújo,41,Homem
+72,Amélia de Maia,62,Homem
+73,Júlia-Lia Sousa,53,Homem
+74,Simão Simões,14,Homem
+75,Salomé Costa,56,Homem
+76,Larissa Fernandes,69,Homem
+78,Helena Andrade,2,Mulher
+82,Micael Rodrigues,39,Mulher
+83,Ângela Matos,61,Homem
+84,Gaspar Rodrigues,89,Mulher
+85,Raquel do Neves,75,Mulher
+86,Afonso Pires,29,Mulher
+87,Alexandre Marques,72,Homem
+88,William do Neves,73,Homem
+89,Renato Rocha-Leal,24,Mulher
+90,Tatiana-Mara Alves,22,Mulher
+92,Salomé do Branco,54,Mulher
+93,Nelson Carneiro,33,Mulher
+94,Jéssica Garcia,38,Mulher
+95,Erica Lima,50,Mulher
+96,Fabiana Soares,39,Mulher
+97,Júlia Ribeiro,41,Mulher
+98,Larissa Vaz,65,Mulher
+99,Pilar Pereira,53,Mulher
+100,Matias Pinho,50,Mulher
+101,Diogo Matias,59,Mulher
+102,Sandro Garcia,23,Mulher
+103,Xavier Lopes,46,Mulher
+105,Violeta Neto,42,Mulher
+106,Rita Fernandes-Guerreiro,22,Mulher
+107,Filipe do Maia,31,Mulher
+108,Nicole Cunha,33,Mulher
+111,Lorena Figueiredo,56,Mulher
+112,Gil de Lima,42,Mulher
+114,Nuno Gomes,38,Mulher
+115,Larissa Magalhães,44,Mulher
+116,Matilde-Vera Santos,29,Mulher
+117,Patrícia-Luciana Cardoso,25,Mulher
+118,Ismael Matos,32,Mulher
+119,Carminho Pacheco,44,Mulher
+120,Filipe Sousa,61,Mulher
+121,Lorena Cunha,71,Mulher
+122,Bruna Pacheco,38,Mulher
+123,Luciana Tavares,57,Mulher
+124,Ivo Neves,63,Mulher
+125,Jaime de Fonseca,18,Mulher
+126,Irina da Maia,68,Mulher
+127,Luana Soares,88,Mulher
+128,Sebastião Branco,47,Mulher
+129,Nuno da Reis,46,Mulher
+130,Santiago Nunes,69,Mulher
+131,Luciana Brito,47,Mulher
+132,Nuno Batista,43,Mulher
+133,Santiago Castro,51,Mulher
+134,Luana Faria,51,Mulher
+135,Larissa Pinheiro,56,Mulher
+136,Sebastião Fonseca,47,Mulher
+137,Alexandre da Ferreira,51,Mulher
+138,Caetana Cruz,55,Mulher
+139,Ema Torres,56,Mulher
+140,Fernando Azevedo,52,Mulher
+141,Bruno Morais,68,Mulher
+142,Mafalda Mendes,38,Mulher
+143,Larissa Antunes,68,Mulher
+144,Luciana Matias,38,Mulher
+145,Yasmin Alves,45,Mulher
+146,Júlia Fernandes,42,Mulher
+147,Lisandro Ribeiro,37,Mulher
+148,Leandro Esteves,44,Mulher
+149,Luca Castro,36,Mulher
+150,Mafalda Branco,73,Mulher
+151,Noah Santos,36,Mulher
+152,Iara Lopes,37,Mulher
+153,Inês Garcia,40,Mulher
+154,Micael Loureiro,43,Mulher
+156,Matias Abreu,24,Mulher
+157,Gustavo de Mota,20,Mulher
+158,Isaac de Pinheiro,41,Mulher
+159,Letícia Nunes,57,Mulher
+160,Érica Domingues,55,Mulher
+161,Lourenço Neves,58,Mulher
+162,Kévim da Monteiro,67,Mulher
+163,Débora Rodrigues,38,Mulher
+165,Nelson Abreu,15,Homem
+167,Joaquim da Torres,34,Homem
+168,Luna Pinho,37,Homem
+169,Emília Costa,32,Homem
+173,Patrícia Miranda-Brito,47,Mulher
+174,Andreia Amaral,38,Mulher
+175,Gabriela Matias,47,Mulher
+176,Carlota Leite,34,Mulher
+177,Diogo Soares,30,Mulher
+179,Alícia-Margarida Brito,31,Mulher
+180,Carminho Mota,42,Mulher
+181,Ema Pacheco,43,Homem
+182,Micael Magalhães,28,Mulher
+183,Yara Borges,45,Mulher
+184,Tomé Amaral,69,Mulher
+185,Sandro Henriques,49,Homem
+187,Alícia-Constança Pinho,52,Mulher
+190,Soraia Vaz,46,Mulher
+191,Amélia-Débora Ferreira,70,Mulher
+192,Ângelo Pacheco,66,Homem
+193,Ivan da Fonseca,36,Homem
+194,Sofia Sá,51,Homem
+195,Lorena Freitas,79,Homem
+196,Débora Branco,93,Homem
+197,Mário Batista,93,Homem
+198,Lorena Gonçalves-Rocha,70,Homem
+199,Gonçalo Paiva,84,Homem
+200,Gabriel Araújo,65,Homem
+201,Alice Ribeiro-Abreu,79,Homem
+202,Dinis Pinheiro,76,Homem
+203,Raquel-Anita Correia,67,Homem
+204,Eva Oliveira,86,Homem
+205,Íris Andrade,40,Homem
+206,Lisandro Pinto,72,Homem
+207,Tomás Andrade,89,Homem
+208,Iara da Assunção,77,Homem
+209,Lúcia Machado,51,Homem
+210,Ângelo Andrade,53,Homem
+211,Constança Guerreiro,65,Homem
+212,Caetana Rocha,66,Homem
+213,Jorge de Rocha,56,Homem
+214,Márcio Monteiro,64,Homem
+216,Mara-Patrícia Santos,79,Homem
+217,Flor Correia,42,Homem
+218,Irina Cruz,54,Homem
+219,Mia-Margarida Rocha,77,Homem
+220,Frederico Moreira,51,Homem
+221,Hugo Barros,40,Homem
+222,Vicente do Leite,52,Homem
+223,Enzo Coelho,82,Homem
+224,William Fernandes,72,Homem
+225,Noah Nogueira,42,Homem
+226,Afonso Neves,80,Homem
+227,Nelson Amaral,81,Homem
+228,Kyara Leite,68,Homem
+229,Rúben Silva,49,Homem
+230,Ângela Loureiro,54,Mulher
+231,Jaime Araújo,25,Mulher
+232,Nicole Marques,48,Homem
+234,Salomé Jesus,8,Mulher
+235,Isabela do Magalhães,42,Mulher
+236,Rafaela Vieira,3,Homem
+237,Valentim Coelho,13,Mulher
+238,Nádia Ferreira,40,Mulher
+239,Daniel Paiva,63,Homem
+240,Bryan Magalhães,19,Mulher
+242,Rafaela Fonseca,67,Homem
+243,Ema Abreu,85,Homem
+244,Carolina Amorim,65,Homem
+245,Luísa Moreira,68,Mulher
+246,Gil Almeida,74,Mulher
+247,Emília Batista,76,Homem
+248,Ivan Rocha,80,Homem
+249,Petra Vaz,87,Homem
+250,Kyara-Bianca Barbosa,74,Homem
+251,Mia de Vicente,56,Homem
+253,Luca Torres,38,Mulher
+254,Vera Araújo,88,Homem
+255,Tiago Carvalho,28,Homem
+256,Lara Melo,61,Homem
+262,Ana Miranda,34,Mulher
+263,André Reis,74,Mulher
+264,Vicente Lopes,74,Mulher
+265,Denis Lourenço,52,Mulher
+266,Sofia de Batista,41,Homem
+267,Isaac Gaspar,82,Mulher
+269,Clara Leal,23,Mulher
+270,Nair Baptista,16,Homem
+271,Rodrigo Correia,52,Homem
+272,Filipe Mota,52,Homem
+273,Joaquim Nogueira,42,Mulher
+277,Valentim Sá,67,Mulher
+278,Sérgio Valente,32,Mulher
+279,Igor Machado,32,Mulher
+280,Soraia Antunes,43,Mulher
+281,Alexandre Amaral,13,Mulher
+283,William Simões,12,Mulher
+284,Xavier Freitas-Azevedo,18,Mulher
+285,Emma-Lúcia Matos,75,Mulher
+287,Luciana da Alves,83,Homem
+288,Joel Melo,67,Mulher
+289,Carlota do Amaral,4,Mulher
+290,Alexandra Alves-Pires,27,Mulher
+293,Miriam Cardoso,31,Mulher
+294,Simão Pinto,45,Mulher
+295,Soraia-Larissa Pacheco,91,Homem
+296,Emanuel de Nascimento,5,Homem
+298,Vera Baptista,34,Homem
+299,Bárbara de Magalhães,31,Homem
+300,Santiago Paiva,32,Mulher
+301,Mariana do Coelho,16,Mulher
+304,Álvaro Campos,51,Homem
+305,Benjamim Ferreira,41,Homem
+306,Isabela Amaral,8,Homem
+308,Anita-Eva Baptista,44,Homem
+309,Gil Martins,48,Homem
+314,Márcio do Melo,49,Homem
+316,Emma Abreu,28,Mulher
+317,Teresa Barbosa-Mota,30,Homem
+320,Francisca Magalhães,24,Mulher
+322,Samuel Almeida-Branco,54,Mulher
+323,Victória Ferreira,74,Mulher
+324,Matilde Loureiro,39,Mulher
+325,Mauro Mendes,51,Mulher
+326,Valentina Rocha,58,Mulher
+327,Ângelo Leal,49,Mulher
+328,Eduardo Guerreiro,53,Mulher
+329,Ângela Teixeira,49,Mulher
+330,Nuno de Lopes,43,Mulher
+331,Renata Rodrigues-Araújo,40,Mulher
+332,Patrícia Branco,76,Mulher
+333,Yasmin-Leonor Pinho,48,Mulher
+334,Rafael Baptista-Pinto,47,Homem
+336,Noah Pinho,72,Homem
+337,Diogo Cruz,65,Homem
+338,Melissa do Macedo,74,Homem
+339,Jorge Matos,54,Homem
+340,Noa Campos-Ribeiro,49,Homem
+341,Isabel Matos,34,Homem
+344,Ângelo Araújo,48,Homem
+345,Rodrigo Rodrigues,42,Homem
+347,Denis Coelho,37,Homem
+348,Ricardo Pinheiro,40,Homem
+349,Rodrigo Matos,69,Homem
+350,Lisandro Barros,62,Homem
+351,Camila Marques-Leal,33,Homem
+352,Ivan Matos,39,Homem
+353,Salomé Batista,58,Homem
+354,Luna Borges,54,Homem
+355,Andreia Leite,41,Homem
+356,Emanuel Amaral,81,Homem
+357,Sérgio Nunes,79,Homem
+358,André Vieira,72,Homem
+361,Luca Nascimento,104,Mulher
+363,Marcos Torres-Fernandes,30,Mulher
+364,Violeta Barros,15,Mulher
+365,Matilde Maia-Fernandes,13,Mulher
+367,Nair Borges,38,Mulher
+368,Luciana Carvalho,79,Homem
+369,Laura Fernandes,13,Mulher
+370,Madalena Branco,32,Mulher
+371,Lourenço Lima,46,Mulher
+373,Álvaro Rodrigues,25,Mulher
+374,Renata Soares,26,Mulher
+375,Salvador Pereira,27,Mulher
+376,Luca Torres,37,Mulher
+377,Joaquim Marques-Mota,50,Mulher
+378,Ivo Assunção,16,Mulher
+379,Bruno Maia,79,Mulher
+380,Laura-Carminho Leite,32,Mulher
+381,Teresa Nascimento,32,Mulher
+382,Rodrigo Amorim,46,Mulher
+383,Wilson Magalhães,36,Mulher
+384,Gustavo Cruz,40,Mulher
+385,Leandro Melo-Cunha,39,Mulher
+386,Lisandro Barros,37,Mulher
+388,Dinis Melo,68,Homem
+389,Leandro Tavares,37,Mulher
+390,Luís Pacheco,24,Mulher
+391,Carlos Pinho,78,Mulher
+392,Sofia Abreu-Barros,32,Homem
+396,Mafalda Tavares,62,Mulher
+397,Yara Oliveira,34,Mulher
+398,Inês Machado,26,Mulher
+399,Sara Mendes,51,Mulher
+400,Luna Leal,47,Mulher
+401,Marcos Moura,54,Mulher
+404,Duarte Anjos,34,Homem
+405,Daniela de Ribeiro,43,Homem
+407,Kyara Leite,24,Mulher
+408,Ana Lopes,42,Mulher
+409,Benjamim Faria,31,Mulher
+412,José Ferreira,79,Homem
+413,Bruna do Jesus,96,Mulher
+415,Tatiana Fernandes,41,Mulher
+416,Sofia Tavares,50,Mulher
+417,Noa Magalhães,56,Mulher
+419,Noah Freitas,47,Mulher
+421,Ema Anjos,47,Homem
+422,Brian Araújo,44,Homem
+425,Nicole Neto,36,Homem
+427,Leandro Vieira,37,Mulher
+428,Mariana Castro,22,Mulher
+430,Jaime Henriques,30,Mulher
+432,Renata-Leonor Marques,43,Homem
+433,Bruno Moura,25,Homem
+434,Eva Simões,13,Homem
+435,Maria Loureiro-Tavares,29,Homem
+438,Larissa da Sá,79,Homem
+440,Caetana Brito-Castro,38,Homem
+444,Francisco Coelho,21,Homem
+447,Iara Fernandes,54,Mulher
+448,Enzo Gomes,19,Homem
+449,Carlos Ribeiro,49,Mulher
+450,Carminho Pinto,87,Mulher
+451,Vera Santos,37,Mulher
+453,Naiara Oliveira,21,Mulher
+454,Bianca Loureiro,16,Mulher
+455,Maria Paiva,28,Mulher
+456,Filipa-Camila Pacheco,6,Mulher
+458,Vera Rocha,85,Mulher
+461,Bryan Henriques,63,Mulher
+462,Sofia Antunes-Freitas,8,Homem
+463,Joaquim Rodrigues,77,Mulher
+464,Emília Lourenço,32,Homem
+465,Salvador Valente,25,Homem
+468,Tatiana Barros,16,Homem
+469,Diogo Campos,21,Homem
+470,Jéssica Ribeiro,18,Homem
+471,Marcos Campos,27,Homem
+472,Gabriel Brito,27,Homem
+475,Iara Garcia,47,Mulher
+476,Amélia do Pires,18,Mulher
+477,Tomé Martins,54,Homem
+478,Mauro Amaral,50,Mulher
+479,Gaspar Figueiredo,85,Homem
+480,Inês Campos,85,Homem
+481,Cláudio Coelho-Gonçalves,46,Homem
+482,Victória Fonseca,71,Mulher
+483,Sara Macedo-Morais,84,Homem
+485,Helena de Coelho,6,Homem
+487,Isaac Freitas,15,Mulher
+488,Emanuel Machado,48,Homem
+489,Noah Maia,46,Homem
+491,Ariana Nascimento-Morais,22,Homem
+492,Diego Valente,54,Homem
+493,Raquel-Rita Pinheiro,69,Mulher
+494,Amélia Silva-Pinho,33,Homem
+495,Rita Silva,60,Homem
+496,Madalena-Juliana Castro,35,Mulher
+497,Matilde Guerreiro,34,Mulher
+499,Rafael do Maia,87,Homem
+500,Lúcia Pereira-Teixeira,13,Homem
+504,Leandro Gomes-Pinheiro,94,Homem
+505,Raquel Monteiro,36,Mulher
+506,Mia Neves,72,Mulher
+507,Nelson Guerreiro,53,Mulher
+508,Sara Rodrigues,52,Mulher
+509,Tomé Freitas,48,Mulher
+510,Daniel Rocha,66,Mulher
+511,Alice Leite,38,Mulher
+512,Emília-Beatriz Neves,89,Mulher
+513,Anita Correia,55,Mulher
+514,Rafael de Pinheiro,38,Mulher
+518,Mara Cunha,39,Mulher
+519,Gaspar Domingues,32,Mulher
+520,André Garcia,24,Homem
+521,Renata Gaspar,49,Mulher
+522,Sebastião Leal,19,Mulher
+523,António Santos,60,Homem
+524,Emanuel Alves,39,Homem
+525,Ivo Ferreira-Rocha,21,Homem
+526,Diana Rocha,41,Mulher
+527,Laura Soares,46,Homem
+529,Eduardo Neto-Andrade,95,Mulher
+530,Ema Torres,84,Mulher
+531,Leonor Machado,54,Mulher
+532,David da Coelho,61,Mulher
+533,Camila Amaral,86,Mulher
+534,Luciana da Pereira,78,Mulher
+535,João Simões,15,Homem
+536,Amélia Cruz,52,Mulher
+537,Mauro Neves,48,Mulher
+538,Marcos Esteves,80,Homem
+539,Erica Ribeiro,61,Mulher
+540,Samuel Batista,69,Mulher
+541,Marcos Amaral,62,Mulher
+542,José Coelho,38,Mulher
+543,Catarina Ferreira-Correia,14,Homem
+544,Patrícia Marques,82,Mulher
+545,Xavier Moura,38,Mulher
+546,Mário da Matias,75,Mulher
+547,Leonardo Nunes,36,Mulher
+548,Ema Pinheiro,40,Mulher
+550,Yasmin-Júlia Morais,64,Mulher
+551,Ângela Batista,45,Mulher
+552,Nádia Fernandes,43,Homem
+553,Emma da Oliveira,38,Homem
+554,Nádia Simões,24,Homem
+555,Ana de Alves,27,Homem
+556,Kyara Cunha,15,Homem
+558,Nuno Moura,53,Mulher
+559,Luca Alves-Henriques,61,Mulher
+561,Edgar Soares,66,Mulher
+562,Afonso Moura,60,Mulher
+563,Daniela Matias-Branco,19,Mulher
+564,Kyara da Lourenço,61,Mulher
+565,Rafael Esteves,69,Mulher
+566,Mário Pinheiro,55,Homem
+567,Daniel Morais,63,Homem
+568,Beatriz do Brito,77,Homem
+570,Bruna Pereira,62,Homem
+571,Francisca Soares-Rodrigues,72,Homem
+572,Ariana Ramos,87,Homem
+573,Lara do Faria,88,Homem
+576,Juliana Melo,72,Homem
+577,Laura Sousa,67,Homem
+578,Ana Machado,63,Homem
+579,Letícia Vieira,65,Homem
+580,Luana Machado,33,Mulher
+581,Vasco Ribeiro,47,Mulher
+582,Miriam Branco,26,Mulher
+583,Ismael Oliveira,46,Mulher
+584,Cláudio Macedo,46,Mulher
+585,Manuel de Nogueira,46,Mulher
+586,Kevin Batista,62,Mulher
+587,Luana Matos,57,Mulher
+588,Xavier Costa,61,Mulher
+589,Francisca Maia,32,Homem
+590,Larissa Neves,36,Homem
+591,Alice Azevedo,70,Mulher
+594,Sérgio do Pinho,17,Homem
+597,Miguel Baptista-Henriques,43,Homem
+600,Benjamim Magalhães,61,Homem
+603,Leonor Anjos,61,Homem
+604,Rafaela Oliveira,81,Homem
+606,Ângelo da Magalhães,33,Homem
+609,Raquel Simões,51,Homem
+610,Emília Morais,13,Homem
+611,Constança Esteves,9,Homem
+618,Lia Valente,19,Homem
+619,Isabel-Luna Neto,16,Homem
+620,Violeta Cruz,6,Homem
+621,Margarida Carvalho,27,Homem
+625,Bruna Coelho,30,Mulher
+626,Luana de Valente,3,Mulher
+628,António Fernandes,56,Mulher
+630,Duarte Barbosa,80,Mulher
+631,Nádia-Camila Pinto,61,Mulher
+633,Helena Paiva,82,Homem
+634,Tatiana Lima,51,Homem
+635,Mia Domingues-Leal,36,Homem
+636,Valentina Coelho-Neves,32,Homem
+637,Wilson Nogueira,54,Mulher
+639,Beatriz Gonçalves,15,Homem
+643,Diego Fernandes,44,Homem
+644,Sofia Pacheco,27,Homem
+645,Camila Nogueira,20,Homem
+646,Bernardo Abreu,33,Homem
+647,Letícia Soares-Nunes,46,Homem
+649,Francisca Batista,17,Homem
+650,Cristiano Borges,77,Homem
+651,Ângela Sá,96,Mulher
+652,Patrícia Freitas,68,Mulher
+656,Violeta Loureiro,31,Homem
+658,Sérgio Matos,14,Homem
+662,Noah Almeida,32,Homem
+663,Marta Soares,16,Homem
+665,Nicole Gonçalves,45,Homem
+671,Samuel Anjos-Miranda,38,Mulher
+672,Marta Rocha,33,Homem
+673,Salomé Ferreira,0,Homem
+674,Jaime Pires,40,Homem
+675,Rita Sousa,58,Mulher
+676,Ariana Figueiredo-Costa,46,Mulher
+677,Bruna Loureiro,79,Mulher
+678,Carlota Almeida,77,Mulher
+679,Sara-Petra Lopes,52,Mulher
+680,Mauro Nunes,38,Mulher
+681,Mara do Jesus,35,Mulher
+682,Valentina Vicente,29,Mulher
+684,Miguel Carvalho,52,Mulher
+685,Constança Domingues,43,Mulher
+687,Valentim Araújo,48,Mulher
+688,Francisca Garcia,64,Homem
+689,Joaquim Neto,7,Homem
+691,Bárbara Mendes,72,Mulher
+692,Violeta Melo,48,Homem
+693,Tomé Vieira,10,Homem
+694,Rita Marques,16,Homem
+696,Nicole Alves,48,Homem
+698,Carminho Cruz,43,Mulher
+700,Erica Rocha-Branco,69,Homem
+701,Emília Alves,55,Homem
+702,Juliana Lourenço,55,Homem
+703,Carlos Mota,45,Homem
+704,Leonor Abreu,50,Homem
+705,Inês da Pereira,38,Homem
+706,Lara Cunha,40,Homem
+707,Érica Neves,42,Homem
+709,Júlia Paiva,46,Homem
+710,Bruna Freitas-Vaz,28,Mulher
+711,Rafaela Rocha,74,Mulher
+712,Rúben Lopes,17,Homem
+713,Henrique Silva,60,Mulher
+714,Júlia Azevedo,75,Homem
+716,Afonso Torres,38,Mulher
+717,Emília Garcia,35,Mulher
+718,Érica Moreira,47,Mulher
+719,Bárbara Tavares,29,Mulher
+720,Yasmin Cruz,45,Mulher
+722,Bernardo de Mota,18,Mulher
+723,Daniel Almeida,32,Mulher
+724,Soraia Almeida,34,Mulher
+725,Kevin Cruz,81,Mulher
+726,Bárbara-Constança Carneiro,42,Mulher
+728,Bárbara do Marques,35,Mulher
+729,Wilson Moreira-Rodrigues,38,Mulher
+730,Bryan Baptista-Pires,5,Homem
+731,Flor Assunção,30,Mulher
+732,Renata Coelho,25,Homem
+735,Júlia da Reis,46,Mulher
+736,Tomé Miranda,39,Homem
+737,Bernardo Cruz-Santos,34,Homem
+739,Teresa Abreu,27,Mulher
+740,Simão Baptista-Paiva,33,Mulher
+741,Nair Rocha,47,Mulher
+742,Lia do Gonçalves,64,Mulher
+743,Santiago Almeida,79,Mulher
+744,Joaquim Pacheco,50,Mulher
+745,Lourenço Araújo,49,Mulher
+746,Clara Lopes,8,Mulher
+747,Beatriz Tavares,7,Mulher
+749,Denis Pinho,62,Mulher
+750,Ângelo Ramos-Baptista,18,Homem
+752,Luca Borges,58,Mulher
+753,Vasco Maia,51,Mulher
+754,Ema Garcia,78,Mulher
+755,Andreia Lourenço,57,Mulher
+757,Madalena Monteiro,13,Mulher
+759,Mateus Antunes,68,Mulher
+760,Sara da Pires,80,Homem
+763,Sandro Esteves,36,Homem
+764,Eduardo Teixeira,39,Homem
+765,Guilherme Pereira,33,Mulher
+766,Mário Neves,66,Mulher
+767,Mário Amaral,58,Mulher
+769,Santiago de Maia,43,Mulher
+770,Filipa Batista-Barros,32,Mulher
+771,Isaac Ribeiro,19,Homem
+772,Mélanie Vieira,70,Homem
+773,Irina Maia,73,Homem
+775,Samuel Reis-Ramos,47,Mulher
+776,Rafaela Faria,46,Mulher
+777,Nair-Gabriela Vicente,43,Mulher
+778,Luana Moura,40,Homem
+779,Filipa Miranda,10,Mulher
+780,Miriam Garcia,29,Homem
+782,Cláudio Teixeira,61,Homem
+784,Matias Matias,37,Mulher
+785,Erika Correia,27,Mulher
+786,Sebastião Matos,37,Mulher
+787,Marco do Vicente,31,Mulher
+788,Rafael Araújo,22,Mulher
+789,Raquel Paiva,5,Mulher
+790,Frederico Jesus,30,Mulher
+791,Carlota Araújo,39,Mulher
+792,Mário Vaz,26,Mulher
+793,Francisco Azevedo,39,Mulher
+795,Gabriela Pinto,35,Mulher
+796,William Batista,31,Mulher
+797,Denis Rodrigues,35,Mulher
+798,Ângelo Torres,41,Mulher
+799,Patrícia Guerreiro,31,Mulher
+800,Helena Valente,35,Mulher
+802,Bárbara Leite-Antunes,58,Homem
+803,Vítor Anjos,47,Homem
+804,Gaspar Rocha,87,Homem
+805,Daniel Antunes-Morais,41,Homem
+806,Ângela Vicente,22,Homem
+807,Daniela Faria,30,Homem
+808,Luís Pinheiro,48,Homem
+810,Vitória Tavares,37,Homem
+812,Sofia Moreira,53,Homem
+813,Francisco Ferreira,42,Homem
+814,Mateus da Pinho,67,Homem
+815,Constança Castro,29,Homem
+817,Henrique da Teixeira,34,Homem
+819,Lourenço Miranda,40,Homem
+820,Mauro Melo-Neto,33,Homem
+821,Gil do Neto,56,Homem
+822,Rui Barbosa,53,Homem
+823,Simão Teixeira,42,Homem
+824,Isaac Carneiro,43,Homem
+825,Victória da Garcia,32,Homem
+826,Matias Sousa,24,Homem
+828,Kyara Rocha,95,Homem
+829,Bianca Gomes,48,Homem
+830,Ana Monteiro,74,Homem
+831,Bruno Oliveira,79,Homem
+832,Joaquim Matos,67,Homem
+833,Jéssica Amorim,77,Mulher
+834,Júlia Leal-Rocha,77,Mulher
+835,Renato Almeida,31,Homem
+836,Vítor Gaspar,69,Homem
+837,Edgar Carvalho,40,Homem
+838,Violeta do Pinto,51,Homem
+839,Bruna Assunção,65,Homem
+840,Flor Moura,72,Homem
+841,Daniela Loureiro,42,Homem
+842,Tomás Garcia-Sousa,76,Homem
+843,Alexandre Campos,79,Homem
+844,Ismael Neves,52,Homem
+846,Bruna Valente,62,Homem
+847,Teresa-Laura Matos,60,Homem
+848,Leonor Figueiredo,65,Homem
+849,Mauro Lopes,56,Homem
+850,Naiara da Magalhães,87,Homem
+853,Margarida da Matias,56,Homem
+854,Diogo Domingues,78,Homem
+855,Rita Leite,67,Homem
+856,Nicole Pinto,39,Homem
+857,Amélia de Castro,77,Homem
+858,Eduardo Loureiro-Teixeira,65,Homem
+859,Marco Batista-Garcia,79,Homem
+860,Sérgio Marques,80,Homem
+861,Emília Barros,44,Homem
+862,Benedita-Mafalda Jesus,76,Homem
+863,Ariana do Machado,70,Homem
+864,Benjamim Pacheco-Pacheco,78,Homem
+865,Edgar Fernandes,72,Homem
+866,Gabriela Branco,57,Homem
+867,Vitória Correia-Moura,54,Homem
+868,Madalena Batista,59,Homem
+869,Isabel Pacheco,65,Homem
+870,Vítor Baptista,78,Homem
+871,Violeta Andrade-Domingues,59,Homem
+872,Caetana Anjos,75,Homem
+873,Salvador Borges-Matos,54,Homem
+874,Santiago Brito,73,Homem
+875,Manuel Borges,80,Homem
+876,Constança Pinto-Guerreiro,66,Homem
+877,Caetana Vieira,40,Homem
+878,Sofia Coelho,41,Homem
+879,Jaime Leite,50,Homem
+880,Filipa do Oliveira,80,Homem
+883,Daniela Marques-Barros,75,Homem
+884,Valentim Rocha,83,Homem
+885,Mateus Pereira,72,Homem
+886,Valentina Vicente,48,Homem
+887,André Freitas,46,Homem
+888,Matias Pacheco,41,Mulher
+890,Victória Branco,14,Mulher
+891,Lorena Antunes,89,Mulher
+894,Leandro Leal,22,Mulher
+895,Luís Moreira,22,Mulher
+896,Salomé-Irina Gonçalves,49,Homem
+897,Valentim Melo,72,Homem
+898,Alexandra Andrade,37,Mulher
+900,Renato Santos,43,Homem
+901,Larissa Pinho,19,Mulher
+902,Guilherme Martins,35,Mulher
+906,Luísa Almeida-Branco,32,Mulher
+908,Ema da Figueiredo,42,Homem
+910,Carlos do Almeida,30,Mulher
+913,Fernando Cruz-Coelho,4,Mulher
+918,Marta Vicente,74,Mulher
+923,Kévim Nascimento,14,Mulher
+924,Andreia Araújo,15,Mulher
+925,Vasco Matias,66,Mulher
+926,Noah de Nogueira,70,Mulher
+927,Valentina-Jéssica Leite,76,Mulher
+928,Rafael Almeida,18,Mulher
+929,Daniel Costa,67,Mulher
+930,Simão Henriques-Ribeiro,93,Mulher
+931,Jéssica Valente,66,Mulher
+932,Yasmin Pinheiro,28,Mulher
+933,Duarte Lopes,79,Mulher
+934,Wilson Ramos,43,Mulher
+936,Kevin Almeida,61,Mulher
+939,Tiago da Antunes,22,Homem
+940,Anita Anjos-Gaspar,29,Homem
+941,Juliana Pinho,28,Mulher
+944,Gonçalo Maia,21,Homem
+947,Kévim Valente,56,Homem
+948,Eduardo Amaral,64,Mulher
+950,Petra de Ramos,33,Mulher
+951,Gabriel Alves-Coelho,76,Mulher
+954,Lourenço de Neves,11,Mulher
+957,Valentim Correia,20,Mulher
+960,Leonor Paiva,44,Mulher
+961,Catarina-Pilar Sá,41,Mulher
+962,Santiago Miranda,54,Mulher
+964,Maria-Luísa Barros,54,Mulher
+965,Kevin Costa,41,Mulher
+967,Álvaro Marques,44,Mulher
+968,Helena-Nair Esteves,43,Mulher
+969,Helena Henriques,40,Mulher
+970,Eduarda Sá,39,Mulher
+973,Helena Magalhães,77,Mulher
+979,Kyara Pacheco,75,Mulher
+980,Bruno da Melo,36,Mulher
+981,Caetana-Nair Pereira,30,Mulher
+982,Kevin Pires-Moura,41,Mulher
+984,Carlos Neto,65,Homem
+985,Vasco Correia,76,Homem
+986,Vicente Ferreira,43,Homem
+987,Nicole Araújo,75,Homem
+988,Patrícia Esteves,33,Homem
+989,Núria Santos,55,Homem
+991,Tiago Guerreiro,59,Homem
+993,Samuel Gaspar,60,Homem
+994,Pilar Soares,58,Homem
+995,Violeta-Emília Nascimento,49,Homem
+996,Sandro Neves,55,Homem
+997,Bruna-Ariana Ribeiro,56,Homem
+999,Bryan Sá,24,Homem
+1000,Patrícia-Catarina Esteves,43,Homem
+1003,Carlos Simões,61,Mulher
+1004,Emília Matias,86,Mulher
+1006,Gabriel Nogueira-Macedo,20,Mulher
+1007,Bianca Torres,62,Mulher
+1008,Leonardo do Jesus,73,Mulher
+1009,David Tavares,75,Mulher
+1014,Rui da Santos,58,Mulher
+1015,Nicole Castro,66,Mulher
+1016,Helena Barbosa,62,Mulher
+1017,Mateus Neto-Magalhães,43,Mulher
+1018,Pilar Lima,22,Mulher
+1020,Tomás Castro,15,Mulher
+1021,Melissa Pereira,12,Mulher
+1022,Joaquim Macedo,54,Mulher
+1023,Laura Baptista,37,Mulher
+1024,Adriana da Rocha,28,Mulher
+1027,Lucas Leal,37,Homem
+1028,Carlota-Naiara Andrade,51,Homem
+1029,Artur Reis,26,Mulher
+1032,Daniel Baptista,31,Homem
+1033,Cláudio Campos-Monteiro,48,Homem
+1034,Vera Fonseca,87,Homem
+1035,Carlos Pires,77,Homem
+1037,Mélanie Matos,74,Homem
+1038,Ana Loureiro,85,Homem
+1039,Melissa Correia,73,Homem
+1040,Alícia Oliveira-Araújo,71,Homem
+1041,Eva Brito,62,Homem
+1042,Sara Teixeira,78,Homem
+1043,Ismael Leal,12,Homem
+1044,Marta Ramos-Pinheiro,80,Homem
+1045,Mário Lourenço-Correia,80,Homem
+1046,Leonor do Cardoso,83,Homem
+1048,Leandro Ferreira,78,Homem
+1050,Diogo Figueiredo,86,Homem
+1051,Iara Anjos,18,Mulher
+1052,Márcio Valente,26,Mulher
+1053,Yasmin Silva,37,Mulher
+1054,Sérgio Ribeiro-Guerreiro,26,Mulher
+1055,Rúben Oliveira-Nunes,43,Mulher
+1056,Luís Pires-Nogueira,48,Mulher
+1057,Luana Gonçalves,77,Mulher
+1059,Rafaela Faria,61,Homem
+1060,Noa Campos-Santos,51,Homem
+1061,Mauro Antunes-Teixeira,22,Homem
+1062,Artur Carvalho,63,Homem
+1063,Edgar Ferreira,18,Homem
+1064,Lucas Gonçalves,41,Homem
+1066,Daniela de Branco,35,Mulher
+1067,Gil Batista-Figueiredo,52,Mulher
+1068,Carminho Carvalho,48,Mulher
+1069,Leandro Santos,23,Mulher
+1070,Margarida Reis,82,Mulher
+1076,Leonor Silva-Silva,64,Mulher
+1077,Pilar Simões,79,Mulher
+1078,Vasco de Moura,65,Mulher
+1080,Benjamim Andrade,75,Mulher
+1081,Clara Soares,82,Mulher
+1082,Bruna de Cruz,77,Mulher
+1083,Nádia Cunha,58,Mulher
+1084,Lara Matias,69,Mulher
+1085,Joana Cruz-Pinho,88,Mulher
+1086,Alice Amaral,74,Mulher
+1087,Salvador da Vicente,57,Mulher
+1088,Dinis Simões,45,Mulher
+1089,Lisandro Paiva,67,Mulher
+1090,Juliana Lima,86,Mulher
+1091,Martim da Batista,82,Mulher
+1092,Alice Macedo,80,Mulher
+1093,Érica Machado,70,Mulher
+1094,Benedita Pinho-Castro,49,Mulher
+1095,Hugo Moreira,74,Mulher
+1096,Bernardo Araújo,67,Mulher
+1098,Rita-Bruna Amaral,61,Mulher
+1099,Luís Gonçalves,65,Mulher
+1100,Constança Macedo,60,Mulher
+1102,Kelly Costa,80,Mulher
+1104,Sandro Nogueira,70,Mulher
+1105,Mélanie Pinho,63,Mulher
+1106,Rafael Moura,63,Mulher
+1107,Valentina Moura,66,Mulher
+1108,Alexandre Gonçalves,90,Mulher
+1109,Micael Matias,65,Mulher
+1110,Rafaela Maia,50,Mulher
+1111,Luana Henriques,53,Mulher
+1112,Erika do Garcia,81,Mulher
+1113,Flor Henriques-Miranda,68,Mulher
+1114,Ana-Nair Pereira,75,Mulher
+1115,Adriana Paiva,50,Mulher
+1116,Salomé Torres,50,Mulher
+1117,Mariana Barros,71,Mulher
+1118,Samuel Andrade,74,Mulher
+1119,Gil Alves,68,Mulher
+1120,Cláudio da Magalhães,88,Mulher
+1121,Duarte Barbosa-Vieira,80,Mulher
+1122,Daniel Garcia,75,Mulher
+1123,Rafael Tavares,84,Mulher
+1124,Constança Oliveira,87,Mulher
+1125,David Simões,64,Mulher
+1126,Jaime Melo,79,Mulher
+1127,Vera Santos,65,Mulher
+1128,Vasco da Nunes,76,Mulher
+1129,Mariana da Azevedo,76,Mulher
+1130,Petra Moura-Mendes,66,Mulher
+1131,Mafalda Monteiro,62,Mulher
+1132,William Santos,74,Mulher
+1133,Nicole de Sá,79,Mulher
+1135,Eva Figueiredo,73,Mulher
+1136,Valentim Branco,71,Mulher
+1137,Emma Lima,85,Mulher
+1138,Noa Campos,56,Mulher
+1140,Sandro Pires,69,Mulher
+1141,Emma Figueiredo-Vaz,87,Mulher
+1142,Manuel Gaspar,87,Mulher
+1143,Martim Gonçalves,68,Mulher
+1144,Gil Fonseca,71,Mulher
+1145,Francisco Magalhães,78,Mulher
+1146,Ângelo Gomes,75,Mulher
+1147,Carlota Pires-Garcia,72,Mulher
+1148,Iara Tavares,75,Mulher
+1149,Brian Ribeiro,85,Mulher
+1150,Bárbara-Ângela Paiva,70,Mulher
+1151,Melissa do Leite,69,Mulher
+1152,Laura da Gaspar,74,Mulher
+1153,Catarina Pereira,81,Mulher
+1154,António Almeida,78,Mulher
+1155,Diana Neves,74,Mulher
+1156,César da Cardoso,65,Mulher
+1157,Bryan Mendes,78,Mulher
+1159,Álvaro Vieira-Pacheco,76,Mulher
+1160,Nádia de Fonseca,53,Mulher
+1161,Cláudio Pinto,73,Mulher
+1162,Filipe Moura,19,Mulher
+1163,Gonçalo Azevedo,14,Mulher
+1164,Henrique Soares,76,Mulher
+1165,Mauro da Simões,67,Mulher
+1166,Lúcia Loureiro,100,Mulher
+1167,Mauro Soares,62,Mulher
+1168,Sandro Machado,56,Mulher
+1169,Matilde Barbosa,63,Mulher
+1170,Guilherme da Marques,72,Mulher
+1171,Valentina do Nogueira,74,Mulher
+1172,Enzo Soares,41,Mulher
+1173,Íris Garcia,42,Mulher
+1174,Leandro Lima,25,Mulher
+1175,Manuel Cunha,59,Mulher
+1176,Mariana-Amélia Macedo,79,Mulher
+1177,Brian Matias,81,Mulher
+1178,Bruno Neto,52,Mulher
+1179,Beatriz Amaral,67,Mulher
+1180,Isabel Vicente,87,Mulher
+1181,Noah da Carneiro,74,Mulher
+1182,Bernardo Rodrigues,78,Mulher
+1185,Yasmin Neto,72,Mulher
+1188,Benedita Guerreiro,82,Mulher
+1189,João Gomes,55,Mulher
+1190,Nelson Ribeiro,84,Mulher
+1191,Bruna-Filipa Carvalho,75,Mulher
+1192,Joana Costa-Matias,74,Mulher
+1193,Edgar Correia,63,Mulher
+1194,Cláudio Campos,76,Mulher
+1196,Marco Silva,78,Mulher
+1197,Nuno Azevedo,85,Mulher
+1198,Emanuel Mendes-Amaral,68,Mulher
+1199,Camila Sá,70,Mulher
+1201,Larissa Lima,52,Mulher
+1202,Matias Nunes,18,Mulher
+1203,Júlia Fernandes,82,Mulher
+1204,Lara-Maria Azevedo,73,Mulher
+1205,Vítor Gonçalves,80,Mulher
+1206,Teresa Silva,79,Mulher
+1207,Isabel Morais,74,Mulher
+1208,Iara Abreu,15,Mulher
+1210,Ivan Costa,53,Mulher
+1211,Emília Figueiredo,46,Mulher
+1212,Íris Tavares,47,Mulher
+1214,Íris de Borges,53,Mulher
+1215,Raquel Pinheiro,75,Mulher
+1216,Nair de Matos,72,Mulher
+1217,Marcos Nascimento,66,Mulher
+1218,Isabela-Melissa Matias,72,Mulher
+1219,Nádia Oliveira,84,Mulher
+1220,Ivo da Vicente,75,Mulher
+1222,Leonardo Esteves,78,Mulher
+1223,Marco Valente,15,Mulher
+1224,Marcos Ramos,30,Mulher
+1225,Valentim Martins,72,Mulher
+1226,Rúben Ferreira,28,Mulher
+1227,Andreia-Jéssica Nunes,32,Mulher
+1228,Joana Branco,20,Mulher
+1230,Joaquim de Baptista,17,Mulher
+1232,Isabel Alves,18,Mulher
+1233,Francisca Leite,19,Mulher
+1235,Samuel Neto,16,Mulher
+1236,Petra do Torres,7,Mulher
+1237,Luís Mendes,16,Mulher
+1238,Miriam Nogueira-Soares,30,Mulher
+1239,Paulo do Neves,41,Mulher
+1240,Mafalda Castro,77,Mulher
+1241,Valentina do Fonseca,84,Mulher
+1242,Helena-Patrícia Simões,47,Mulher
+1243,Carminho Lopes,46,Homem
+1244,Débora Machado,81,Homem
+1245,Vasco Ferreira,90,Homem
+1246,Alice Sousa,46,Homem
+1248,Samuel Paiva,70,Homem
+1250,Tomé de Garcia,80,Homem
+1251,Ivo de Costa,46,Homem
+1252,Tatiana Araújo,37,Mulher
+1253,Mia Barros,61,Mulher
+1255,Núria Cruz,54,Mulher
+1256,Brian Carneiro,33,Mulher
+1257,Marta Rocha,24,Mulher
+1258,Noa Vicente,37,Mulher
+1259,Constança Fonseca,29,Mulher
+1260,Mia Faria,40,Mulher
+1261,Jéssica Valente,21,Mulher
+1262,Petra Henriques,38,Mulher
+1263,Bárbara Sousa,9,Mulher
+1264,Petra da Pires,34,Mulher
+1265,Violeta Carneiro-Machado,37,Mulher
+1266,Cláudio Jesus,15,Homem
+1267,Carolina de Gomes,15,Homem
+1270,Rita Branco,2,Mulher
+1271,César Pinho,83,Homem
+1272,Letícia Pinto,19,Homem
+1274,Pedro Coelho,29,Homem
+1278,Rui Paiva,4,Mulher
+1279,Lorena de Sá,36,Mulher
+1281,Miriam Matias,17,Mulher
+1283,Rodrigo Fonseca-Loureiro,19,Mulher
+1285,João Lima,6,Mulher
+1286,Cristiano Cruz,82,Mulher
+1290,Hugo Lopes,27,Mulher
+1291,Paulo Nunes-Nascimento,31,Mulher
+1293,Denis Correia,27,Homem
+1294,Fabiana Martins,30,Homem
+1295,Rui Azevedo,46,Homem
+1297,Kyara Andrade-Cunha,18,Homem
+1300,Amélia Guerreiro,13,Homem
+1302,Ana Azevedo,78,Homem
+1303,Rui Anjos-Azevedo,16,Homem
+1304,Noah Pinho,9,Homem
+1307,Carlos Araújo,38,Mulher
+1308,Kévim Nascimento,30,Mulher
+1309,Anita Vaz,30,Mulher
+1310,Sara Nascimento-Brito,52,Mulher
+1311,Petra Loureiro-Moura,70,Homem
+1312,Diego Ramos,37,Homem
+1315,Isabel Pacheco-Ribeiro,60,Homem
+1316,Denis Rocha,39,Homem
+1318,Marcos Rocha,39,Mulher
+1319,Ricardo Santos,10,Homem
+1320,Eduarda Nogueira,42,Homem
+1324,Afonso Leal,40,Homem
+1327,Carolina Nunes,43,Homem
+1328,Emma-Mariana Assunção,34,Homem
+1329,Gabriel Pinho,31,Mulher
+1331,João da Rocha,31,Mulher
+1333,Leonor Brito,51,Homem
+1334,Mélanie Correia,51,Mulher
+1335,Juliana Campos,44,Mulher
+1336,Marta Pinto,55,Mulher
+1337,Fábio Carneiro,70,Mulher
+1338,Débora Correia,68,Mulher
+1340,Nicole Valente-Valente,29,Mulher
+1342,Luana Amorim,42,Mulher
+1343,Luís Silva,14,Mulher
+1344,Gabriel Anjos-Soares,74,Mulher
+1347,Guilherme Anjos,47,Mulher
+1348,Íris Miranda,47,Homem
+1349,Noah Lopes,49,Homem
+1351,Renato de Correia,30,Homem
+1354,Alice Ramos,25,Homem
+1355,Mário Cunha,16,Homem
+1357,Nelson Ferreira,29,Mulher
+1358,João Cruz,59,Mulher
+1359,Naiara Santos,50,Mulher
+1360,Marcos Matias,60,Mulher
+1361,José da Rocha,82,Mulher
+1362,Pilar Nogueira,10,Mulher
+1364,Mélanie Pereira,32,Homem
+1365,Anita Torres,40,Homem
+1367,Letícia Barbosa-Leite,41,Homem
+1368,Joel Simões,51,Homem
+1371,Simão Pacheco,54,Homem
+1373,Violeta Tavares,44,Homem
+1375,Gabriela Araújo,45,Homem
+1376,Ricardo Marques,45,Homem
+1377,Artur Ribeiro,24,Homem
+1378,Sebastião Mota,45,Homem
+1379,Rafael Melo,38,Homem
+1380,Núria Maia,10,Mulher
+1381,Constança-Eva Maia,10,Mulher
+1382,Rodrigo Lima-Marques,69,Mulher
+1383,Anita Lourenço,36,Mulher
+1385,Irina Nogueira,33,Mulher
+1386,Alice Moura,37,Mulher
+1387,Kyara Barbosa,58,Mulher
+1388,Mateus da Anjos,71,Mulher
+1390,Benjamim Paiva,84,Homem
+1391,Benjamim Carneiro,68,Mulher
+1392,Luana Henriques,43,Homem
+1393,Sandro Pinho,58,Mulher
+1395,Gil Cardoso,64,Homem
+1396,Lara Vaz,47,Homem
+1397,Carolina Sá,61,Homem
+1398,Ivo Machado,47,Mulher
+1400,Mauro Guerreiro-Sousa,49,Mulher
+1401,Ismael Vaz,26,Mulher
+1402,Paulo Coelho,55,Mulher
+1403,Daniela Leal,40,Mulher
+1405,Beatriz Soares,85,Mulher
+1406,Salomé Sá-Ferreira,55,Mulher
+1407,Ângela Ferreira,56,Mulher
+1408,Naiara Sá,53,Mulher
+1409,Sara Reis,83,Homem
+1410,Ângela de Amorim,54,Homem
+1411,Marta Gonçalves-Vaz,37,Homem
+1412,Clara Azevedo,56,Homem
+1413,Marta Leite,30,Homem
+1414,Eva Vaz,52,Homem
+1415,Dinis Gonçalves,51,Homem
+1416,Caetana Vicente,53,Homem
+1417,Miriam Alves,61,Homem
+1418,Cláudio Antunes,58,Homem
+1421,Carlos Castro,78,Homem
+1422,Sérgio Marques-Carvalho,52,Homem
+1423,Samuel Andrade,7,Homem
+1424,Pilar-Valentina Ramos,55,Homem
+1425,Irina Azevedo,38,Homem
+1426,Tiago Garcia,59,Homem
+1429,Bárbara Batista,11,Homem
+1430,Ricardo do Costa,39,Homem
+1431,Edgar Araújo,21,Homem
+1432,Daniel Assunção,27,Homem
+1433,Bernardo Neves,35,Homem
+1434,Matilde Oliveira,53,Homem
+1435,Bryan Melo,58,Homem
+1437,Gustavo Carneiro,51,Homem
+1439,Rafael Simões,25,Homem
+1440,Gabriela Matos,38,Homem
+1442,William Pinheiro,40,Homem
+1443,Rita Brito,49,Homem
+1444,Emília Pacheco,49,Homem
+1445,Ana Paiva,48,Homem
+1446,Carolina Loureiro,45,Homem
+1447,Ema Soares,43,Homem
+1448,Rafael Castro,45,Homem
+1451,Beatriz Matos,30,Homem
+1452,Erica-Sofia Castro,84,Homem
+1453,Benedita Campos,44,Homem
+1454,Noa Alves,54,Homem
+1455,Luna Jesus,47,Homem
+1456,Iara Vaz,35,Homem
+1457,Luna Faria,86,Mulher
+1458,Marcos Cruz,76,Homem
+1459,Gaspar Mota,38,Mulher
+1460,Frederico Guerreiro-Neto,26,Mulher
+1461,Brian Pinho,48,Homem
+1462,Manuel Domingues,38,Homem
+1463,Samuel Coelho,13,Homem
+1464,Nicole Matias,15,Homem
+1466,Henrique Mota,5,Homem
+1467,Matias da Ramos,18,Homem
+1471,Vítor Pacheco,59,Mulher
+1472,Constança-Luana Esteves,55,Homem
+1473,Lorena Gomes,47,Homem
+1474,Diana da Magalhães,46,Homem
+1475,Iara Campos,31,Mulher
+1476,Igor Leal,24,Mulher
+1477,Diogo Neves,23,Mulher
+1478,Renata Lima,38,Mulher
+1479,Jaime Lopes,19,Mulher
+1481,Luca Gomes,41,Homem
+1482,Lúcia Leite-Cruz,64,Homem
+1485,José Assunção,33,Mulher
+1486,Mélanie Gaspar,39,Homem
+1488,Ema Lopes,69,Mulher
+1489,Filipe Borges,22,Homem
+1491,Constança Vaz,58,Homem
+1492,Ivo Ramos,23,Homem
+1493,Gil Rocha,58,Homem
+1494,Eva Silva,43,Homem
+1495,Eduarda de Valente,32,Homem
+1496,Vicente Cardoso,47,Homem
+1497,Noa Azevedo-Torres,53,Homem
+1498,Emília Sá,15,Homem
+1499,Francisco Brito,46,Homem
+1500,Nádia-Isabela Guerreiro,48,Homem
+1502,Luís de Almeida,27,Homem
+1505,Benjamim Reis,99,Mulher
+1507,Jaime Silva,77,Mulher
+1508,Yara Machado,47,Mulher
+1509,Inês Ribeiro,39,Mulher
+1510,Bruna Barbosa,15,Mulher
+1511,Flor Freitas,45,Mulher
+1512,Eduardo da Ribeiro,19,Mulher
+1513,Íris Brito,39,Mulher
+1515,Adriana Mota,45,Homem
+1516,Nuno Carvalho-Vicente,23,Homem
+1517,Helena-Amélia Almeida,28,Homem
+1518,Lúcia Leite,36,Homem
+1520,Camila Pacheco,63,Homem
+1521,Eduarda Macedo,79,Mulher
+1522,Petra da Gonçalves,85,Mulher
+1523,Afonso Matos,61,Mulher
+1524,Bruno Batista,67,Mulher
+1525,Miguel Nascimento,85,Mulher
+1526,Nádia Almeida,78,Mulher
+1527,Carlos de Amaral,53,Mulher
+1528,Lorena Valente,21,Mulher
+1529,Isabela Magalhães,79,Mulher
+1530,Rafael Guerreiro,49,Homem
+1531,Ana Fernandes,47,Homem
+1532,Rúben da Pacheco,34,Homem
+1533,Sara Araújo,42,Homem
+1534,Henrique Rocha,78,Homem
+1539,Ariana Tavares,47,Homem
+1540,Luís Vicente-Melo,63,Homem
+1541,Kyara Gaspar-Sousa,56,Homem
+1542,Mário Mota,53,Homem
+1543,Jéssica-Leonor Machado,49,Homem
+1544,Artur Torres,53,Homem
+1545,Gabriel Leal,45,Homem
+1546,Renata Gomes,41,Homem
+1548,Hugo Nogueira,48,Homem
+1549,Gil Nunes,39,Mulher
+1551,Bianca Guerreiro,88,Homem
+1553,Kyara-Petra Faria,19,Homem
+1554,Valentina Leite,36,Mulher
+1556,Mia Matias,25,Mulher
+1557,Ângelo Domingues,63,Mulher
+1558,Mauro Vicente,51,Mulher
+1559,Eduarda Henriques,41,Mulher
+1560,Martim Lima,46,Mulher
+1561,Petra Batista,53,Mulher
+1562,Leonardo Nascimento-Valente,58,Mulher
+1563,Carlos do Antunes,51,Mulher
+1564,Yara Sá,32,Homem
+1565,William Vaz,43,Homem
+1567,Márcio Nunes-Carneiro,7,Homem
+1568,Inês Mendes,8,Homem
+1571,Íris Correia,26,Mulher
+1572,Mauro Loureiro,60,Mulher
+1574,Sérgio Mendes,31,Mulher
+1575,Daniel Leite,18,Mulher
+1576,Kevin Santos,36,Mulher
+1577,Jaime Barbosa,21,Mulher
+1579,Ivo Pinheiro,15,Mulher
+1581,Carolina Araújo,39,Mulher
+1584,Diana Faria,16,Homem
+1585,Adriana de Moura,34,Mulher
+1586,Pedro do Fonseca,25,Mulher
+1587,Luana Esteves,41,Mulher
+1588,Enzo Pinto,78,Mulher
+1590,Matilde Barbosa,77,Homem
+1591,Soraia de Borges,47,Homem
+1592,Wilson Macedo,45,Homem
+1593,Mia da Figueiredo,51,Homem
+1594,Cristiano Cruz,41,Homem
+1595,Constança Abreu,30,Homem
+1596,Edgar de Andrade,43,Homem
+1597,Gaspar Lourenço,38,Homem
+1598,Bruna Barros,50,Homem
+1599,João Gaspar-Fernandes,74,Homem
+1602,André Reis-Santos,41,Mulher
+1603,Alícia Guerreiro-Valente,41,Homem
+1605,Matilde Valente,47,Mulher
+1608,Isabel Nogueira,69,Mulher
+1610,Yara Fernandes,11,Homem
+1611,Fabiana Santos,44,Mulher
+1612,Artur Freitas-Macedo,39,Mulher
+1613,Márcio Ribeiro,47,Mulher
+1614,Patrícia-Joana Simões,10,Mulher
+1619,Vitória Fonseca,72,Homem
+1620,Sofia Faria,52,Mulher
+1621,Vítor Valente,46,Mulher
+1622,Nair Vaz,37,Mulher
+1623,Gonçalo do Melo,47,Mulher
+1624,Daniela do Barros,31,Mulher
+1625,Fernando Branco,51,Mulher
+1626,Fabiana-Emília Pinheiro,43,Mulher
+1627,Mariana Pacheco,40,Mulher
+1628,Flor Abreu,49,Mulher
+1629,Leonardo Assunção,51,Mulher
+1630,Diogo Fernandes,36,Mulher
+1631,Martim Carvalho,57,Mulher
+1632,Erika Fernandes,49,Mulher
+1633,Carlota Reis,37,Mulher
+1636,Mariana Fonseca,46,Homem
+1637,Helena Tavares,18,Mulher
+1639,Nicole Ferreira,44,Mulher
+1640,Letícia Leite,49,Mulher
+1641,Andreia Garcia,45,Mulher
+1642,Fábio Carneiro,47,Mulher
+1643,Andreia Valente,38,Mulher
+1644,Bárbara-Sofia Martins,42,Mulher
+1645,Gabriel Maia,38,Mulher
+1646,Valentina Loureiro,32,Mulher
+1647,Leandro Andrade,37,Mulher
+1648,José Machado,39,Mulher
+1649,Jorge Loureiro,45,Mulher
+1650,Rui Marques-Gonçalves,40,Mulher
+1651,Jaime do Correia,45,Mulher
+1652,Marcos Paiva,46,Mulher
+1653,Eduarda Oliveira,37,Mulher
+1654,Bruna Gaspar,47,Mulher
+1655,Joaquim Nascimento,36,Mulher
+1656,Bruna Melo,34,Mulher
+1657,Matilde-Maria Santos,33,Mulher
+1659,Mélanie-Lorena Oliveira,60,Mulher
+1660,Manuel Macedo,44,Mulher
+1661,Pilar do Mendes,56,Mulher
+1662,Rodrigo Teixeira,45,Mulher
+1663,Noah Rodrigues,74,Mulher
+1664,Frederico Nascimento,48,Mulher
+1665,Samuel Miranda,85,Mulher
+1666,Ivan de Melo,46,Mulher
+1667,Kévim Anjos,65,Mulher
+1668,Nádia Marques,39,Mulher
+1669,Íris Alves,33,Homem
+1671,David Pacheco-Gomes,30,Homem
+1672,Andreia Leite,27,Homem
+1673,Rafael da Sousa,7,Homem
+1675,Brian Fernandes,37,Homem
+1676,Lucas Vaz,35,Homem
+1677,Sérgio Cruz,29,Homem
+1678,Lisandro Henriques,46,Homem
+1680,Hugo do Guerreiro,36,Homem
+1681,Daniela Lourenço-Pires,48,Homem
+1682,Inês-Nicole Garcia,48,Homem
+1683,Juliana Vaz,37,Homem
+1684,Leonardo de Barbosa,31,Homem
+1685,Frederico Cunha,42,Homem
+1686,Ana-Emma Batista,37,Mulher
+1688,Marcos Garcia,8,Homem
+1691,Dinis Branco,74,Homem
+1692,Kévim Correia,92,Homem
+1693,Jéssica Almeida,17,Homem
+1694,Madalena Abreu,50,Homem
+1696,Ângelo Morais,36,Mulher
+1697,Ivo Ramos,43,Mulher
+1699,Iara Neves,44,Mulher
+1701,Jorge Brito,51,Homem
+1703,Luca da Monteiro,38,Homem
+1705,Pedro Santos,45,Mulher
+1706,Adriana Pinheiro,43,Mulher
+1709,Sara Leal,41,Mulher
+1710,Leandro Loureiro,9,Homem
+1712,Hugo Assunção,34,Mulher
+1713,Alexandra Amorim,43,Mulher
+1715,Lia Magalhães,89,Homem
+1716,Joana Gaspar,41,Mulher
+1717,David Azevedo,31,Homem
+1719,Joel Reis,34,Homem
+1720,Renato Pereira,69,Homem
+1722,Jaime Leite,70,Homem
+1723,José Reis,85,Mulher
+1724,Márcio Cruz,31,Mulher
+1727,Yasmin Alves,50,Homem
+1728,Marcos Amaral,51,Homem
+1731,Sérgio Paiva,40,Homem
+1732,Frederico Amorim,61,Homem
+1733,Diana Branco,44,Homem
+1737,William Oliveira,40,Homem
+1739,Lia Andrade,63,Homem
+1740,Adriana Almeida,52,Homem
+1743,Francisco Pereira,33,Mulher
+1745,Gil Amaral,38,Homem
+1746,Márcio Silva-Borges,34,Homem
+1747,Guilherme Matos,19,Homem
+1750,Bruno Assunção-Garcia,16,Homem
+1752,Patrícia Gonçalves,43,Mulher
+1754,Emma Figueiredo,42,Mulher
+1759,Fernando Alves,45,Homem
+1760,Laura Almeida,56,Homem
+1761,Catarina Magalhães,45,Homem
+1762,Jaime Henriques,38,Mulher
+1763,Edgar Matias,41,Homem
+1765,Vasco Amaral-Neves,25,Mulher
+1766,Júlia Henriques,66,Mulher
+1767,Teresa do Branco,49,Mulher
+1768,Matilde Santos,55,Mulher
+1769,Carolina Jesus,48,Mulher
+1771,Juliana de Costa,57,Mulher
+1772,Francisco Vieira,90,Mulher
+1773,Márcio Nogueira,90,Homem
+1775,Xavier da Tavares,57,Homem
+1776,Nicole Esteves-Assunção,41,Mulher
+1777,Renato Leite,47,Mulher
+1778,Alícia Lopes,59,Mulher
+1779,Simão Fonseca,51,Homem
+1780,William Coelho-Almeida,26,Mulher
+1781,Renata-Isabela Pires,57,Mulher
+1782,Lia Pinho,47,Mulher
+1784,Rui Araújo,42,Homem
+1785,Adriana Antunes-Neves,80,Mulher
+1786,Luísa Monteiro,64,Mulher
+1787,Júlia Monteiro,66,Mulher
+1788,Eduarda Mendes-Lopes,7,Homem
+1789,Carolina Lima,55,Mulher
+1790,Alexandra Gaspar,79,Mulher
+1791,Sara Silva-Assunção,33,Homem
+1793,Kévim Branco,64,Mulher
+1794,Gonçalo Soares,69,Homem
+1795,Fabiana Lima,31,Mulher
+1796,Isabela Gomes,82,Mulher
+1797,Diogo Garcia,33,Mulher
+1798,Érica Silva,68,Mulher
+1799,António Matias,83,Mulher
+1800,Salvador Araújo,75,Mulher
+1801,Xavier Pereira,47,Homem
+1803,Teresa Oliveira-Alves,74,Mulher
+1804,William Jesus,65,Mulher
+1805,Gabriel Loureiro,65,Mulher
+1806,Nádia Teixeira,26,Mulher
+1807,Catarina Gaspar,52,Mulher
+1809,Gabriel Andrade,58,Mulher
+1810,Santiago Paiva,28,Mulher
+1811,Carlos Pacheco,25,Mulher
+1812,Carminho Carvalho,24,Mulher
+1814,Kevin Costa,65,Mulher
+1817,Diego Gonçalves,80,Mulher
+1819,Márcio de Branco,40,Mulher
+1820,Bruno Freitas,42,Mulher
+1823,Renato Barbosa,24,Mulher
+1824,Francisca Anjos-Reis,49,Mulher
+1825,Rui Maia,85,Mulher
+1826,Lucas Rodrigues,63,Homem
+1827,Kelly da Campos,80,Mulher
+1828,Érica Faria,76,Mulher
+1829,Simão Nunes,32,Mulher
+1830,Flor Costa,47,Mulher
+1831,Gabriela Cardoso,30,Mulher
+1832,Filipa de Correia,35,Homem
+1833,Paulo Valente,68,Homem
+1834,Paulo Rodrigues,88,Homem
+1835,Ivo Paiva,84,Mulher
+1837,Joana Carvalho,80,Mulher
+1838,Samuel Reis,58,Mulher
+1839,Fernando Pacheco,46,Homem
+1840,Salvador Araújo-Teixeira,50,Homem
+1841,Carminho Ferreira,71,Homem
+1842,Diogo Gomes,67,Mulher
+1843,Iara Matias,73,Mulher
+1844,Vitória Mota,54,Mulher
+1845,Benedita Neves,63,Homem
+1846,Joel do Gonçalves,58,Homem
+1847,Melissa Moura,70,Mulher
+1848,Sebastião da Pinheiro,68,Mulher
+1849,Igor de Magalhães,64,Homem
+1850,Débora da Neves,13,Homem
+1851,Luana do Nunes,56,Mulher
+1852,Alexandre Nunes,55,Mulher
+1853,Petra Amaral,74,Homem
+1854,Carlota Lourenço,77,Mulher
+1855,Tiago Sá,28,Mulher
+1856,Francisco Andrade,84,Mulher
+1857,Luca Oliveira,69,Homem
+1858,Lisandro Ramos,27,Mulher
+1859,Guilherme Pinho,23,Mulher
+1860,Mara Machado,56,Homem
+1861,Violeta Andrade,76,Mulher
+1862,Naiara Coelho,25,Homem
+1863,Íris Freitas,58,Mulher
+1864,Violeta Teixeira,30,Mulher
+1865,Francisca de Lima,42,Mulher
+1866,Noa Nogueira,55,Mulher
+1869,Igor Pacheco,70,Homem
+1870,Mariana Almeida,38,Homem
+1871,Frederico Loureiro-Fernandes,37,Mulher
+1872,Eduarda Maia,28,Homem
+1873,Pilar Matos-Neto,24,Mulher
+1875,Valentim Freitas,49,Mulher
+1876,Diogo Morais,79,Mulher
+1877,Bryan Costa,76,Mulher
+1878,Jéssica Correia,29,Homem
+1879,César Gomes,48,Homem
+1880,Sebastião Martins,48,Homem
+1881,Paulo Coelho,55,Homem
+1882,Carlota Machado,32,Homem
+1883,Diego de Macedo,93,Mulher
+1884,Xavier Branco,26,Homem
+1885,Beatriz Batista,52,Mulher
+1886,Cristiano Lopes,70,Homem
+1887,Denis Faria,81,Homem
+1888,Marco de Machado,48,Mulher
+1889,Marco Pacheco,75,Mulher
+1890,Carlos da Ramos,62,Homem
+1891,Lucas Oliveira,50,Homem
+1892,Kelly Barbosa,76,Mulher
+1894,Camila Miranda,15,Homem
+1895,Melissa Fonseca-Correia,87,Mulher
+1896,Kevin Antunes-Lima,31,Mulher
+1897,Mia Amorim,57,Mulher
+1899,Igor Nogueira,20,Homem
+1900,Ângela Tavares,70,Mulher
+1901,Caetana Valente,36,Mulher
+1902,Clara Matos-Amaral,54,Mulher
+1903,Alícia Jesus,69,Mulher
+1904,Luciana Abreu,54,Homem
+1905,Lisandro Matos,23,Mulher
+1906,Igor do Fonseca,79,Mulher
+1908,Gustavo Pinho,50,Mulher
+1909,Bruna Ramos-Loureiro,69,Homem
+1910,Bruno Machado,33,Homem
+1911,Marcos Henriques,36,Mulher
+1912,Rui Gaspar,80,Homem
+1913,Dinis Mendes,40,Mulher
+1914,Nicole Figueiredo,44,Mulher
+1915,Luísa Vicente,50,Mulher
+1916,Ivan Freitas,53,Mulher
+1917,Amélia Fernandes-Gonçalves,30,Mulher
+1918,Irina Cruz,20,Mulher
+1919,Jéssica Simões,77,Mulher
+1921,Xavier Assunção,51,Mulher
+1922,Erika Pinheiro,68,Mulher
+1923,Pilar-Larissa Lourenço,81,Mulher
+1925,Bianca Garcia-Pinheiro,89,Mulher
+1926,Rúben Baptista-Ramos,63,Mulher
+1928,Clara Amorim-Gomes,9,Homem
+1929,Lara de Barros,38,Homem
+1930,Samuel Figueiredo,75,Mulher
+1931,João Melo,27,Homem
+1932,Luca Simões,84,Mulher
+1934,Eduarda Tavares-Vicente,76,Homem
+1936,Marco Batista,34,Mulher
+1937,Laura Henriques,68,Mulher
+1938,Xavier Vicente,79,Mulher
+1939,Fabiana do Guerreiro,58,Mulher
+1940,Gil Silva,22,Homem
+1941,Kelly de Fernandes,37,Mulher
+1942,Dinis Amorim-Batista,66,Mulher
+1943,Larissa-Adriana Vaz,53,Mulher
+1944,Clara-Eduarda Tavares,26,Mulher
+1945,Luciana Loureiro,52,Mulher
+1946,Inês Amaral,33,Mulher
+1947,Carlota Paiva,40,Mulher
+1948,Débora Fernandes,33,Mulher
+1949,Fabiana Oliveira-Nascimento,87,Mulher
+1950,Joana Vaz,66,Mulher
+1951,Emma Maia,47,Mulher
+1952,Lara Almeida,60,Mulher
+1953,Salomé Leal,75,Homem
+1954,Carolina do Matias,39,Mulher
+1955,Camila-Sara Torres,28,Homem
+1956,Tatiana Carneiro,82,Homem
+1957,Lorena Sousa,57,Mulher
+1958,Luciana Paiva,56,Mulher
+1959,Erika-Júlia Neves,51,Mulher
+1960,Alice Magalhães,85,Mulher
+1961,Fábio da Andrade,32,Mulher
+1962,Margarida Batista-Pinto,61,Homem
+1963,Lúcia Cardoso,47,Homem
+1964,Tatiana Pinto,7,Homem
+1965,Henrique Lourenço-Baptista,92,Homem
+1966,Santiago Leite,50,Homem
+1967,Benjamim do Martins,31,Mulher
+1968,Emília Neto,73,Mulher
+1969,Raquel Teixeira,77,Homem
+1970,Mara Vaz,36,Mulher
+1971,Ângela-Camila Melo,35,Mulher
+1972,Débora Santos-Pacheco,34,Mulher
+1973,Juliana do Pinto,56,Mulher
+1974,Sebastião Costa,30,Mulher
+1975,Lucas Barbosa,66,Mulher
+1976,Ivo Coelho,62,Homem
+1977,Filipa Fonseca,65,Mulher
+1978,Filipe Jesus,75,Mulher
+1979,Sofia Pinto,29,Mulher
+1980,Renata Pinho,35,Homem
+1982,Ângelo Costa,39,Homem
+1983,Alexandre Ribeiro,30,Mulher
+1986,Luana Mota,38,Mulher
+1988,Lucas Pinho,48,Homem
+1989,Kévim Amorim-Tavares,46,Mulher
+1992,Lara Sá,75,Mulher
+1993,Manuel de Amorim,60,Mulher
+1994,Daniela Figueiredo,78,Mulher
+1995,Gonçalo Costa,28,Mulher
+1996,Carminho Fonseca,68,Mulher
+1997,Mateus Figueiredo,60,Mulher
+1998,Raquel Cruz,54,Mulher
+1999,Valentina Paiva,31,Mulher
+2002,Clara Lima,28,Mulher
+2003,Rita Nogueira,34,Mulher
+2004,Bruno de Araújo,11,Homem
+2007,Rui Loureiro,61,Mulher
+2008,Adriana-Joana Gonçalves,35,Mulher
+2009,Mafalda Almeida,88,Homem
+2010,Amélia Vaz,58,Homem
+2011,Samuel Mendes,61,Mulher
+2012,Rita Vaz,79,Mulher
+2014,Renata Reis-Baptista,29,Homem
+2015,Álvaro Faria,66,Homem
+2016,Pilar Sousa,69,Homem
+2017,Ricardo Mendes,76,Mulher
+2019,Edgar do Carvalho,69,Mulher
+2020,Margarida Matias,81,Mulher
+2021,Pilar Loureiro,56,Homem
+2024,Teresa Rocha,25,Mulher
+2025,Pedro Abreu,29,Mulher
+2026,Mia da Amaral,89,Mulher
+2027,André Valente,28,Mulher
+2028,Nádia Torres,34,Mulher
+2029,Guilherme Araújo,37,Mulher
+2030,Vasco Correia,41,Mulher
+2031,Sérgio Freitas,83,Mulher
+2032,Nicole Coelho-Rodrigues,76,Homem
+2033,Ana Soares,18,Homem
+2034,Vítor Sousa-Abreu,27,Mulher
+2035,Tomás Vieira,76,Homem
+2036,Caetana Loureiro,56,Mulher
+2037,Samuel Pinho,65,Mulher
+2038,Carminho Mota,26,Mulher
+2039,Cláudio Gomes,75,Homem
+2041,Caetana Silva,78,Mulher
+2042,Tomé Coelho,74,Homem
+2043,Ema Teixeira-Neto,87,Mulher
+2044,Íris Pinho-Gaspar,77,Homem
+2045,Íris Ribeiro-Vieira,73,Homem
+2046,Erika-Vera Araújo,73,Mulher
+2047,Kévim Araújo-Vaz,91,Homem
+2048,Núria Neves,84,Mulher
+2049,Bernardo Melo,68,Mulher
+2050,Marco Matias,37,Mulher
+2051,Luciana Moreira,70,Mulher
+2052,André Jesus,23,Homem
+2053,Bianca Castro-Rodrigues,60,Homem
+2054,Marco Baptista,45,Homem
+2055,Erica Almeida,27,Mulher
+2056,Erika Lopes,22,Homem
+2057,Eduarda Paiva,42,Mulher
+2058,Micael Mendes,44,Homem
+2059,Maria Costa-Freitas,65,Mulher
+2060,Kelly Fernandes,59,Homem
+2061,Bianca Valente,13,Mulher
+2062,Maria Leite-Henriques,57,Homem
+2063,Rafael Martins-Guerreiro,45,Mulher
+2064,Vera Soares,53,Mulher
+2065,Kevin Antunes,46,Mulher
+2066,Nelson Reis-Anjos,43,Mulher
+2067,Pilar Reis,11,Mulher
+2069,Alexandre Mota,46,Homem
+2070,Lara Soares,2,Mulher
+2071,Rúben Pinho-Nunes,29,Mulher
+2072,Vicente Fernandes,73,Mulher
+2073,Marco Lima,71,Mulher
+2074,Isabel Morais,60,Mulher
+2075,Salomé Jesus,73,Homem
+2076,Filipa Moura,73,Mulher
+2077,José Cruz,66,Mulher
+2078,Afonso da Brito,39,Mulher
+2079,Érica-Ana Pacheco,32,Mulher
+2080,Irina-Débora Tavares,62,Mulher
+2081,Vera Garcia,34,Homem
+2082,Ismael Jesus,36,Homem
+2083,Jéssica Ramos-Assunção,39,Mulher
+2084,Joaquim Leal,86,Mulher
+2085,Mateus Coelho,58,Homem
+2086,Gabriela da Moura,47,Mulher
+2087,Ricardo Nunes-Assunção,45,Mulher
+2088,Lara Andrade,60,Mulher
+2089,Bryan Borges,40,Mulher
+2090,Júlia Vicente,79,Homem
+2091,Ana Almeida,36,Homem
+2093,Luna-Alexandra Vicente,53,Mulher
+2094,Nair Macedo-Carneiro,75,Mulher
+2095,Naiara Castro-Moura,63,Mulher
+2096,Carlos do Pinto,48,Homem
+2098,Amélia-Ema Matias,32,Mulher
+2100,Tomé Amaral,36,Mulher
+2101,Daniel Almeida,3,Homem
+2105,Rodrigo Nogueira,57,Mulher
+2106,Victória Reis-Araújo,25,Mulher
+2107,Vitória Pinho,53,Mulher
+2108,Marcos Correia,32,Mulher
+2109,Raquel Esteves,61,Mulher
+2110,Yasmin Mota-Esteves,43,Mulher
+2111,Salomé Sousa,55,Homem
+2112,Eva da Barbosa,22,Mulher
+2113,Tatiana Branco,85,Mulher
+2114,Luna Gomes,56,Mulher
+2116,Juliana Almeida,18,Mulher
+2117,Ângelo Anjos-Costa,63,Mulher
+2119,Lourenço Monteiro,43,Mulher
+2120,Mafalda Pires,36,Mulher
+2121,José Araújo,66,Mulher
+2122,Yara Gonçalves-Rodrigues,31,Mulher
+2124,Sandro Leal,92,Mulher
+2125,Nádia Vieira,81,Mulher
+2126,Vítor Amaral-Sá,42,Mulher
+2127,Daniela Esteves,51,Homem
+2128,Victória Soares,81,Mulher
+2129,Gil Mendes,29,Mulher
+2130,Jorge Morais-Melo,50,Homem
+2131,Enzo do Branco,24,Mulher
+2133,Mauro Abreu,77,Homem
+2134,Emma Magalhães,64,Homem
+2135,Kyara Moura,5,Homem
+2136,Petra-Mafalda Loureiro,6,Mulher
+2137,Renata Fernandes,50,Mulher
+2138,Nuno Antunes,48,Mulher
+2139,Letícia Melo,75,Mulher
+2141,Leonor Pinho,90,Mulher
+2142,Yara Antunes,69,Homem
+2144,Wilson Anjos,45,Mulher
+2145,David Castro-Branco,70,Mulher
+2146,Noah Neto,80,Homem
+2147,Gabriel Domingues,76,Homem
+2149,Manuel Esteves-Ramos,77,Homem
+2150,Gonçalo Esteves,63,Mulher
+2151,Letícia Rocha-Leal,52,Homem
+2152,Emanuel Sousa,64,Mulher
+2153,Noa Lima,32,Mulher
+2154,Camila-Carminho Reis,36,Homem
+2155,Erika Abreu,40,Mulher
+2156,Marta Santos,65,Mulher
+2157,Alícia-Diana Nascimento,32,Homem
+2159,Rafaela de Simões,80,Homem
+2160,Matilde Lima,28,Mulher
+2161,Bruna do Antunes,49,Mulher
+2162,Victória da Almeida,29,Mulher
+2163,Letícia Lima,44,Homem
+2164,Luca Amorim,70,Mulher
+2165,Carlos Torres,64,Mulher
+2167,Vitória da Lourenço,49,Homem
+2168,Bárbara Pinto,45,Homem
+2169,Rúben Alves,23,Homem
+2170,Mariana-Filipa Ramos,20,Mulher
+2171,Gonçalo Torres,53,Mulher
+2172,André Leite,32,Mulher
+2173,Luna Leite,34,Mulher
+2174,Mélanie Simões,60,Homem
+2175,Yasmin Fonseca,34,Mulher
+2176,David Lima,48,Mulher
+2177,Leonor Matias,68,Homem
+2178,César Abreu,77,Homem
+2179,Martim Paiva,73,Mulher
+2181,Ivo Faria-Batista,58,Homem
+2182,Flor Nascimento,34,Mulher
+2183,Carlos Faria-Baptista,45,Mulher
+2184,Rafaela Sá,62,Homem
+2186,Samuel Nunes,36,Mulher
+2187,Ângela Amorim,41,Mulher
+2188,Luísa Figueiredo,50,Mulher
+2189,Wilson Fernandes,47,Homem
+2190,Teresa Cruz,49,Mulher
+2191,Ricardo Valente,64,Mulher
+2192,Beatriz Moreira-Ferreira,51,Homem
+2193,Tatiana Cardoso,50,Mulher
+2194,Leonor Rocha,65,Mulher
+2195,Francisca Rocha,46,Homem
+2196,Yasmin Sá,60,Homem
+2197,Filipe Rodrigues,34,Mulher
+2198,Bryan do Gomes,35,Mulher
+2199,Constança-Luciana Antunes,61,Mulher
+2200,Lisandro Garcia,62,Mulher
+2201,Diana Baptista,66,Mulher
+2202,Tomás Santos,36,Mulher
+2203,Patrícia Antunes,0,Homem
+2204,Carlota Rocha-Brito,30,Mulher
+2205,Artur Lourenço,49,Mulher
+2206,Renata Monteiro,28,Mulher
+2207,Igor Lima,94,Homem
+2208,Vítor Ribeiro-Monteiro,65,Mulher
+2210,Duarte Matias-Oliveira,58,Mulher
+2213,António Nascimento,60,Homem
+2214,Amélia Mota,89,Mulher
+2215,Mafalda Fonseca-Assunção,63,Mulher
+2216,Daniela do Carneiro,57,Homem
+2217,Iara Campos-Domingues,37,Mulher
+2218,Francisca Silva,81,Homem
+2219,Núria Loureiro-Almeida,58,Mulher
+2220,Carminho Freitas,60,Mulher
+2221,Inês Fonseca,80,Mulher
+2222,Andreia Freitas,66,Homem
+2223,Rodrigo Gomes,89,Mulher
+2224,Leonor Sousa,93,Mulher
+2225,Gil Leal-Ribeiro,32,Mulher
+2226,Vicente Teixeira,17,Mulher
+2227,Santiago Ramos,85,Homem
+2228,Júlia do Freitas,69,Homem
+2229,Mauro Correia,76,Homem
+2230,Yara Gonçalves,83,Homem
+2231,Irina Correia,37,Mulher
+2234,Teresa do Miranda,40,Mulher
+2235,Salomé Fernandes,35,Homem
+2236,Álvaro Costa,37,Mulher
+2237,Dinis Matias,43,Mulher
+2238,Alexandre Oliveira-Vicente,45,Mulher
+2239,Mara Vaz,37,Mulher
+2240,Marta Batista-Antunes,35,Homem
+2241,Lúcia Vaz,53,Mulher
+2242,Nuno Cruz,19,Mulher
+2243,Nádia de Magalhães,83,Mulher
+2244,Fernando Gonçalves-Araújo,39,Mulher
+2245,Álvaro Silva,77,Homem
+2246,Rafael Mendes,45,Mulher
+2247,Erica Tavares,68,Homem
+2248,Ivan Pacheco,56,Mulher
+2249,Matias Abreu,41,Mulher
+2250,Ema Rodrigues,50,Homem
+2251,Nicole Campos,72,Mulher
+2252,Caetana Ramos,79,Homem
+2253,Mia Garcia,83,Mulher
+2254,Micael Moreira,47,Mulher
+2255,Margarida Borges,70,Mulher
+2256,Bianca Fonseca,67,Mulher
+2257,Mário Loureiro-Lourenço,76,Mulher
+2258,Margarida Tavares,70,Homem
+2259,José Lopes,85,Homem
+2260,Salomé da Nascimento,80,Mulher
+2262,Martim Pinho,68,Homem
+2263,Naiara Barbosa,27,Mulher
+2264,Juliana Domingues,66,Mulher
+2265,João Azevedo,75,Homem
+2266,Emma Vaz,52,Homem
+2267,Benedita Azevedo,76,Mulher
+2268,Victória Freitas,75,Mulher
+2269,Flor Moreira,69,Homem
+2270,Sérgio Miranda,88,Mulher
+2271,Matilde Rocha,62,Mulher
+2272,Teresa da Costa,92,Mulher
+2273,Salomé Alves,64,Mulher
+2274,Pilar-Violeta Leite,94,Homem
+2275,Alice de Araújo,68,Homem
+2276,Gustavo Santos,58,Homem
+2277,Rui Andrade,27,Homem
+2278,Diana Morais-Batista,72,Homem
+2279,Raquel Nascimento,36,Mulher
+2280,Adriana Cruz,53,Mulher
+2282,Salvador Leal,17,Homem
+2284,Mara do Costa,13,Mulher
+2285,Lara Nunes,88,Mulher
+2287,Vera Pinho,60,Mulher
+2288,Mafalda Reis,72,Mulher
+2289,Jorge Abreu,71,Mulher
+2290,Kyara Ribeiro,67,Homem
+2291,Letícia Leal,94,Mulher
+2292,Iara Gonçalves,48,Homem
+2293,André Esteves,58,Homem
+2294,Igor Loureiro,76,Mulher
+2295,Leonor Soares,13,Mulher
+2296,Yara Nascimento,34,Mulher
+2297,Lúcia Pinto-Coelho,75,Homem
+2298,Renata Matias,49,Mulher
+2299,Wilson Magalhães,22,Mulher
+2300,David Sá,82,Mulher
+2301,Isabela do Batista,73,Mulher
+2302,Mia Faria,65,Mulher
+2303,Valentim Mendes-Costa,62,Mulher
+2304,Hugo Figueiredo,74,Homem
+2305,Margarida Brito,72,Homem
+2306,Margarida Borges,78,Homem
+2307,Fabiana Andrade-Anjos,32,Mulher
+2308,Matias Moura,54,Homem
+2309,Martim Lima-Cruz,86,Mulher
+2310,Lucas da Andrade,65,Mulher
+2311,Paulo Costa,16,Mulher
+2312,Pedro Lopes,78,Homem
+2313,Francisca Leal,42,Mulher
+2314,Júlia de Simões,68,Mulher
+2315,Francisco Cunha,37,Mulher
+2316,Júlia Pinheiro,72,Mulher
+2317,Flor Assunção,76,Homem
+2318,Afonso Barros-Ribeiro,93,Mulher
+2319,Nelson Barbosa,71,Mulher
+2320,Filipe Rocha,78,Mulher
+2321,Sandro Lima,30,Mulher
+2322,Sebastião Carneiro-Assunção,65,Mulher
+2323,Amélia-Ema Melo,6,Mulher
+2324,Isabela Sousa,82,Mulher
+2325,Larissa Simões,73,Mulher
+2326,Ana-Erica Carneiro,11,Mulher
+2327,Juliana Almeida-Santos,72,Mulher
+2328,Filipe Cunha,58,Mulher
+2329,Francisca-Nádia Maia,65,Mulher
+2330,Gonçalo Carneiro,56,Mulher
+2331,Daniela Faria,67,Mulher
+2332,Miriam Maia,68,Mulher
+2333,Erica Tavares-Sousa,51,Mulher
+2334,Rafael de Miranda,67,Mulher
+2336,Salvador Sousa,60,Mulher
+2337,Isaac Moreira,67,Mulher
+2338,Alice Sousa,49,Mulher
+2339,Ana Faria,68,Mulher
+2340,Mateus Antunes,58,Homem
+2341,Mafalda Henriques,73,Mulher
+2342,Valentim Vicente,88,Mulher
+2343,Catarina Loureiro,39,Mulher
+2344,Mateus Lopes,86,Mulher
+2346,Gustavo Mota,35,Mulher
+2347,Adriana Esteves,30,Mulher
+2348,Inês Cunha,66,Mulher
+2349,William Lopes,74,Mulher
+2350,Hugo Santos,71,Homem
+2351,Caetana Pires,44,Mulher
+2352,Rodrigo Gaspar,56,Mulher
+2353,Vitória Branco,72,Homem
+2354,Joana-Erika Ferreira,71,Homem
+2355,Andreia da Cardoso,49,Homem
+2356,Teresa Monteiro,81,Mulher
+2357,Renato Baptista,54,Mulher
+2358,Diogo Carneiro,65,Homem
+2359,Martim Miranda,81,Homem
+2360,Ricardo Lopes,76,Mulher
+2361,Lia-Emma Neto,51,Homem
+2363,Andreia Branco,13,Mulher
+2364,Gil Paiva,81,Mulher
+2365,Andreia Castro,37,Mulher
+2366,Miriam Domingues,6,Mulher
+2367,Brian Vaz-Fernandes,78,Mulher
+2368,Eva-Débora Assunção,65,Homem
+2369,Ângelo Castro,26,Mulher
+2370,Lorena Morais,84,Mulher
+2372,Lorena Araújo,83,Mulher
+2373,Miriam Vicente,79,Homem
+2374,Carminho Assunção,80,Mulher
+2375,Frederico Branco,79,Homem
+2376,César Morais,81,Mulher
+2377,Hugo Leal,21,Homem
+2379,Raquel Barros,78,Mulher
+2381,Nádia da Sá,64,Mulher
+2382,Nair Costa,63,Homem
+2383,Noa Leite,63,Homem
+2384,Kévim Sá,89,Mulher
+2385,Mariana Ramos,24,Mulher
+2386,Jaime Lima-Campos,75,Homem
+2387,Marta Barbosa,34,Homem
+2388,Diego de Sousa,73,Homem
+2389,Diogo Pires,35,Homem
+2390,Dinis Melo,70,Mulher
+2391,Nicole Esteves,44,Homem
+2392,Benedita Barros,45,Mulher
+2393,Íris Correia,81,Homem
+2394,Maria-Margarida Pires,77,Mulher
+2395,Paulo da Pereira,80,Mulher
+2396,Frederico Pereira,65,Homem
+2397,Sofia Pires,80,Mulher
+2398,Soraia Barbosa,53,Mulher
+2399,Iara Nunes,29,Mulher
+2400,Catarina-Amélia Soares,34,Homem
+2401,Leonor Lourenço,58,Mulher
+2402,Dinis Miranda-Magalhães,70,Mulher
+2403,Gabriel Castro,71,Homem
+2404,Vasco Barbosa,86,Mulher
+2405,Gustavo Lima,64,Mulher
+2407,Carminho Fonseca,44,Mulher
+2408,Helena Paiva,45,Homem
+2409,Xavier Teixeira-Coelho,18,Mulher
+2410,Eduardo Valente,78,Mulher
+2412,Victória da Cardoso,71,Mulher
+2413,Camila Santos,72,Homem
+2414,Júlia Ferreira,56,Mulher
+2415,Salvador Baptista,84,Mulher
+2416,Luca Martins,42,Homem
+2417,Iara Lourenço,25,Mulher
+2418,Núria Rodrigues,88,Mulher
+2419,Larissa Figueiredo,25,Mulher
+2420,Gabriel Cruz,37,Mulher
+2421,Daniela Barbosa,59,Mulher
+2422,Ivan Tavares,84,Mulher
+2423,António Santos,46,Mulher
+2424,Mara Loureiro,58,Homem
+2425,Leonor Assunção,34,Mulher
+2426,Bernardo Moura,67,Homem
+2427,Salomé Maia-Moura,48,Mulher
+2428,Renato Baptista,42,Mulher
+2429,Brian Leal,19,Mulher
+2430,Matias da Vaz,74,Mulher
+2431,Mateus Ramos,6,Homem
+2432,Débora Leite,34,Mulher
+2433,Luna da Neves,67,Mulher
+2434,Ismael Lima,41,Homem
+2435,Nelson do Monteiro,51,Mulher
+2436,Xavier de Rocha,61,Homem
+2437,Yasmin da Campos,63,Mulher
+2438,Nádia Nunes,60,Homem
+2439,Fabiana-Amélia Mota,103,Mulher
+2441,Joana-Jéssica Melo,26,Homem
+2442,Inês Pinheiro-Pinto,44,Mulher
+2443,Vítor Gonçalves,23,Mulher
+2444,Luciana Gonçalves,74,Homem
+2446,Lia de Garcia,71,Homem
+2447,Ismael Pacheco,75,Homem
+2448,Bianca Abreu,61,Homem
+2449,Ariana-Valentina Soares,76,Mulher
+2450,Duarte Macedo,27,Homem
+2451,Violeta Araújo,43,Mulher
+2452,Íris Carneiro,53,Mulher
+2453,Ivan Nogueira,62,Mulher
+2454,Madalena Castro,30,Mulher
+2455,Mara Esteves,63,Homem
+2456,Benedita Amaral,82,Mulher
+2458,Leonor Lima,70,Homem
+2459,Rafaela Teixeira,92,Homem
+2461,Paulo Matias,68,Mulher
+2462,Daniel da Antunes,34,Mulher
+2463,Tomás Correia,59,Mulher
+2464,Vasco Ribeiro,46,Homem
+2465,Mia do Nascimento,64,Mulher
+2466,Amélia Cruz,35,Mulher
+2467,Leandro Domingues,61,Homem
+2469,Lia Loureiro,65,Mulher
+2470,Enzo Macedo,66,Mulher
+2471,Carminho Monteiro-Abreu,52,Homem
+2472,Margarida Branco,69,Mulher
+2473,Teresa Moura-Moura,94,Homem
+2474,Petra-Yara Santos,96,Mulher
+2475,Íris da Valente,81,Mulher
+2476,Carlos Garcia,74,Mulher
+2477,Madalena Amaral,70,Mulher
+2478,Lucas Esteves-Andrade,74,Mulher
+2479,Mariana Pinho,65,Mulher
+2480,Rui Anjos,72,Homem
+2481,Carlos Melo,65,Mulher
+2482,Noah Amaral,60,Mulher
+2484,Andreia Andrade-Costa,98,Homem
+2485,Eduardo de Gaspar,81,Mulher
+2487,Nair Mota,33,Mulher
+2489,João Rodrigues,89,Homem
+2490,Sofia-Irina Cunha,77,Homem
+2491,Enzo Tavares-Henriques,71,Homem
+2492,Isabel Sousa-Borges,79,Homem
+2493,Alexandra Rodrigues-Teixeira,39,Homem
+2494,Petra Branco,93,Homem
+2495,Petra Anjos,68,Homem
+2496,Kyara Moura-Nogueira,77,Homem
+2497,César Azevedo,77,Mulher
+2498,Amélia de Fonseca,26,Homem
+2499,Carolina Neves,82,Mulher
+2501,Bruna Pinheiro,31,Mulher
+2502,Mauro Carneiro,84,Mulher
+2503,Luana Morais,62,Mulher
+2504,Alice Fernandes-Henriques,67,Mulher
+2505,Catarina Lourenço,64,Homem
+2506,Jaime Marques,90,Homem
+2507,Mauro Soares,85,Mulher
+2508,Ivan Esteves,70,Homem
+2509,Salvador da Pinho,49,Mulher
+2510,Enzo Pinheiro,26,Mulher
+2511,Débora-Erica Assunção,17,Mulher
+2512,Madalena-Maria Carvalho,34,Mulher
+2513,Joel Lopes,69,Mulher
+2514,Duarte Figueiredo,51,Mulher
+2515,Vicente Mota,7,Mulher
+2516,Edgar Nascimento,48,Homem
+2517,Leonardo Assunção,70,Homem
+2518,Hugo Garcia,66,Mulher
+2519,Ivan Branco,82,Mulher
+2520,Miguel Rocha,73,Mulher
+2521,Lourenço Carneiro,80,Mulher
+2522,Pedro Loureiro,50,Mulher
+2523,Carlos Leal,61,Homem
+2524,Rafaela-Miriam Barbosa,57,Mulher
+2525,Mia Carvalho,71,Homem
+2527,Clara Pacheco-Guerreiro,32,Mulher
+2528,Lucas Carneiro,62,Mulher
+2529,Mauro Ferreira,61,Homem
+2531,Mário Soares,36,Mulher
+2532,Valentim Teixeira,59,Mulher
+2533,Kyara Abreu-Costa,68,Homem
+2534,Beatriz Moreira,86,Mulher
+2535,Bárbara Pinto,63,Mulher
+2536,Adriana Moreira,66,Mulher
+2537,Nelson da Amorim,50,Homem
+2538,Érica Campos,42,Mulher
+2539,Joel Teixeira,9,Homem
+2540,Pilar Lourenço,31,Mulher
+2541,Luna Ferreira-Andrade,28,Mulher
+2542,Benjamim Ferreira,63,Mulher
+2543,Pilar Pinho,70,Mulher
+2544,Íris da Miranda,73,Homem
+2545,Gonçalo Teixeira,36,Mulher
+2546,Sebastião Moura,45,Homem
+2547,Ismael Lima,73,Mulher
+2548,Carolina Henriques,76,Homem
+2549,Larissa Pacheco,64,Mulher
+2550,Violeta Pacheco,62,Mulher
+2551,Ivo Barbosa,38,Mulher
+2552,Eva do Tavares,84,Mulher
+2553,Erica Nascimento,46,Mulher
+2554,Rafaela da Rocha,14,Mulher
+2555,Íris-Victória Garcia,62,Mulher
+2556,Guilherme de Loureiro,42,Homem
+2557,Ismael Mendes,74,Mulher
+2558,Diogo Matos,8,Mulher
+2559,Salomé Fernandes,41,Homem
+2560,Carminho Nunes,74,Homem
+2561,Ariana Soares,46,Mulher
+2562,Samuel do Lopes,58,Mulher
+2563,Marta Lima,18,Homem
+2564,Larissa-Rita Amaral,43,Mulher
+2565,Joel Leal,39,Homem
+2566,Juliana Neves-Pacheco,37,Mulher
+2567,Teresa Freitas,81,Homem
+2568,Leonor Teixeira,77,Mulher
+2569,Rui Melo,75,Homem
+2570,Yasmin Garcia,81,Mulher
+2572,Marta-Eduarda Castro,61,Mulher
+2573,Erika Leal,53,Mulher
+2574,Juliana Pires,74,Mulher
+2575,Luana Matias-Magalhães,50,Mulher
+2576,Diogo Domingues,53,Mulher
+2577,Lourenço Alves,34,Mulher
+2578,Marta Carvalho,19,Mulher
+2579,Gil Baptista,85,Mulher
+2581,Nádia-Mara Macedo,50,Mulher
+2583,Bryan Teixeira,35,Mulher
+2584,Mauro Pacheco,79,Homem
+2585,Eduarda Coelho,39,Mulher
+2586,Ivo de Mota,51,Mulher
+2587,Alice-Leonor Pereira,66,Mulher
+2588,Martim Pires,22,Mulher
+2589,Victória Valente,65,Homem
+2590,Helena da Nascimento,73,Mulher
+2591,David Andrade,49,Homem
+2592,Lisandro Simões,87,Mulher
+2593,Leonardo Barbosa,70,Homem
+2594,Mariana Branco,64,Mulher
+2595,Tomás Vicente,90,Mulher
+2596,Mafalda Rocha-Alves,32,Mulher
+2597,Filipe Esteves,44,Homem
+2598,Carlota Barbosa,40,Mulher
+2599,Edgar Rocha,66,Mulher
+2600,Frederico Lourenço,68,Mulher
+2601,Frederico Gaspar,26,Mulher
+2602,Matilde Amorim,70,Homem
+2603,Jorge da Santos,44,Mulher
+2604,Melissa-Yara Lima,32,Mulher
+2605,Ivo Gomes,34,Homem
+2606,Martim Pinheiro-Jesus,47,Mulher
+2607,Daniel Carneiro,61,Homem
+2608,Petra Moura,22,Mulher
+2609,Lourenço Leite,57,Homem
+2610,Lorena Loureiro,66,Homem
+2611,Luciana Vaz,48,Mulher
+2612,Jorge Santos,40,Mulher
+2613,Vicente da Moreira,71,Mulher
+2614,Lia Abreu,52,Mulher
+2615,Matias Barbosa-Torres,71,Mulher
+2616,Artur Mota,81,Mulher
+2617,Nair Morais,62,Homem
+2618,Sérgio Coelho-Pires,72,Mulher
+2619,Kevin Gaspar,71,Homem
+2621,Camila Matias,26,Mulher
+2622,Letícia Araújo,21,Mulher
+2623,Valentim Carvalho,83,Mulher
+2624,Irina Barbosa,86,Mulher
+2625,Ângelo Silva,76,Mulher
+2626,Frederico Pacheco,62,Mulher
+2627,Andreia Baptista-Fernandes,69,Homem
+2629,Nair Fernandes,79,Mulher
+2630,Madalena da Tavares,75,Homem
+2631,Vítor da Pinto,74,Homem
+2632,Afonso Baptista,56,Mulher
+2633,Nádia Borges,65,Homem
+2634,Bernardo de Santos,65,Mulher
+2635,Henrique Vicente,61,Homem
+2636,Rafael da Costa,77,Mulher
+2637,Artur Tavares-Vaz,33,Mulher
+2638,Gustavo Ribeiro,33,Mulher
+2639,Júlia Henriques,88,Mulher
+2640,Luca Nunes,57,Homem
+2641,Vitória Ribeiro,68,Mulher
+2642,Afonso Domingues,49,Mulher
+2643,Benedita Barbosa,30,Mulher
+2644,Brian Gomes,59,Mulher
+2645,Erica do Garcia,27,Mulher
+2646,Margarida-Lara Azevedo,62,Homem
+2647,César Pacheco,60,Homem
+2649,Frederico Branco,29,Mulher
+2650,Nicole de Branco,54,Mulher
+2651,Violeta da Garcia,59,Homem
+2652,Bruno Rodrigues,81,Mulher
+2653,Wilson Oliveira,55,Homem
+2654,Melissa Sousa,29,Homem
+2656,Íris Fernandes-Jesus,81,Homem
+2657,Mafalda Brito,53,Homem
+2658,Manuel Amaral,84,Mulher
+2659,Alexandra Freitas,37,Homem
+2660,Rafael Vicente-Soares,67,Mulher
+2661,Mariana Fernandes,65,Mulher
+2662,Madalena Lopes,79,Homem
+2663,Mariana Carneiro,82,Mulher
+2664,Artur Oliveira,53,Mulher
+2665,Érica Esteves,31,Homem
+2667,Bruno Amaral,84,Mulher
+2668,Iara Loureiro,49,Mulher
+2669,Salomé Cunha,53,Mulher
+2670,Ana Araújo,28,Mulher
+2672,Clara Coelho,40,Mulher
+2673,Adriana Amaral,73,Homem
+2674,Juliana Miranda,66,Mulher
+2675,Teresa-Catarina Correia,32,Mulher
+2676,Gabriel Carvalho,55,Mulher
+2677,Alexandre Valente,86,Mulher
+2678,Tomás Simões,72,Homem
+2679,Bernardo da Pinto,78,Mulher
+2680,Amélia Marques,67,Mulher
+2681,Denis Costa,83,Mulher
+2682,Marta-Camila Cardoso,37,Homem
+2684,Eduarda-Helena Neto,55,Mulher
+2685,Mateus Matos,53,Mulher
+2686,Joel Pereira-Pinto,25,Mulher
+2687,Martim Pacheco,88,Homem
+2688,Carlos Mendes,70,Mulher
+2689,João Brito,33,Mulher
+2690,Marco Araújo,63,Homem
+2691,Anita Pires,90,Homem
+2692,Íris-Anita Brito,74,Homem
+2693,Tiago de Henriques,49,Homem
+2694,Frederico Alves,46,Homem
+2695,Luna Paiva,72,Mulher
+2697,Vitória Magalhães,39,Mulher
+2698,Yasmin Melo-Carneiro,80,Mulher
+2699,Afonso Cardoso,22,Mulher
+2700,Francisco Torres,46,Mulher
+2701,Valentim Vaz,84,Mulher
+2702,Sandro Correia,42,Mulher
+2703,Juliana Carneiro,76,Mulher
+2704,Leonor Nogueira,68,Mulher
+2705,Jéssica Santos,71,Homem
+2707,Ismael do Cardoso,3,Homem
+2708,Nelson Azevedo,34,Mulher
+2709,Beatriz Azevedo,52,Mulher
+2710,Noa Neves,73,Mulher
+2711,Victória Lima-Soares,25,Homem
+2712,Isaac da Nascimento,63,Homem
+2714,Kevin Amorim,56,Mulher
+2715,Simão Mota,71,Mulher
+2716,Eva Sousa,34,Mulher
+2717,Lorena Faria,26,Mulher
+2718,Álvaro Freitas,54,Mulher
+2720,Clara da Andrade,81,Homem
+2721,Afonso Torres-Nunes,75,Mulher
+2722,Kévim Assunção,83,Mulher
+2723,Carminho Correia,41,Mulher
+2724,Santiago Faria,52,Homem
+2725,Flor Nascimento,28,Mulher
+2726,Larissa Ferreira,86,Homem
+2727,William Pereira,24,Mulher
+2728,Larissa Correia,56,Mulher
+2729,Emanuel Teixeira,33,Mulher
+2730,Ariana Soares,75,Mulher
+2732,Alexandre Nascimento,51,Homem
+2733,Madalena Magalhães,39,Mulher
+2734,José Correia,63,Mulher
+2735,Nádia do Branco,45,Homem
+2736,Pilar Macedo,46,Homem
+2737,Diana Tavares,83,Mulher
+2738,Marcos Maia,85,Homem
+2739,Fábio Batista,33,Mulher
+2740,Ema Antunes-Coelho,28,Mulher
+2741,Artur Fonseca-Pinho,75,Homem
+2742,Denis Leite,32,Homem
+2743,Bianca Castro,73,Homem
+2744,Vasco Gonçalves,56,Homem
+2745,Mélanie Neves-Tavares,65,Homem
+2747,Rodrigo Domingues,56,Mulher
+2748,Sebastião Ramos,81,Homem
+2749,Alícia-Carlota Teixeira,50,Mulher
+2750,Valentina Teixeira,52,Mulher
+2751,Kelly-Andreia Tavares,56,Mulher
+2752,Francisca Paiva,44,Mulher
+2753,Manuel Mendes,84,Mulher
+2754,Pilar Simões,80,Mulher
+2755,Ema Henriques,79,Homem
+2756,Lourenço Guerreiro-Carvalho,62,Mulher
+2757,Simão Carvalho,75,Homem
+2758,Nádia Mendes-Cruz,58,Mulher
+2759,Letícia Fonseca,74,Mulher
+2761,Adriana Maia,79,Homem
+2762,Tiago Ramos,25,Homem
+2763,Gabriela-Luana Soares,41,Mulher
+2764,Camila Torres,58,Mulher
+2765,Fernando Gomes,56,Mulher
+2766,Vitória Ferreira,70,Mulher
+2768,Nádia Borges,50,Homem
+2769,Sebastião Soares-Matos,81,Mulher
+2770,Isabela Neto,57,Homem
+2771,Dinis Azevedo-Pinho,13,Mulher
+2772,Marco Moreira,84,Mulher
+2773,Jéssica Amorim-Almeida,72,Homem
+2774,Tomé Costa,78,Homem
+2775,Márcio Batista,74,Mulher
+2776,Renato da Vicente,54,Mulher
+2777,Luciana Correia,60,Mulher
+2778,Vasco de Costa,34,Homem
+2780,Márcio da Almeida,30,Mulher
+2781,Helena Barros,78,Mulher
+2782,Lia Campos,63,Homem
+2783,Constança-Nicole Mendes,26,Homem
+2784,Wilson Gomes,79,Homem
+2785,Dinis do Barbosa,69,Homem
+2786,Margarida Morais,58,Homem
+2787,Álvaro da Morais,52,Homem
+2788,David Silva,71,Mulher
+2789,Bruna-Luana Rocha,81,Mulher
+2790,Jorge Amaral,51,Mulher
+2791,Mélanie Pinto-Teixeira,82,Mulher
+2792,Luís Correia,78,Mulher
+2793,Vítor Alves,76,Homem
+2794,Juliana-Ema Coelho,47,Homem
+2795,Xavier Vicente,30,Mulher
+2796,Adriana Assunção,82,Mulher
+2797,Helena Nascimento,29,Homem
+2798,Joaquim Barbosa,78,Homem
+2799,Sebastião Matias,70,Mulher
+2800,Tatiana Vaz,63,Mulher
+2801,Brian Miranda,54,Mulher
+2802,Marcos Abreu-Pereira,50,Mulher
+2803,Lúcia do Gonçalves,71,Mulher
+2804,Marta Pinheiro-Rocha,39,Mulher
+2805,Beatriz do Andrade,9,Mulher
+2806,Andreia Matias-Esteves,58,Mulher
+2807,Filipa Macedo,35,Mulher
+2808,Fábio Brito,36,Homem
+2809,Mauro Fonseca,78,Mulher
+2810,Renata Anjos,60,Mulher
+2811,Daniela Anjos,71,Mulher
+2812,Tomás da Barros,47,Mulher
+2813,Eduardo da Correia,38,Mulher
+2814,Ema Pereira-Paiva,69,Mulher
+2815,Mara Reis,71,Homem
+2816,Mara Pacheco-Vieira,30,Mulher
+2817,Ângela de Branco,42,Homem
+2818,Lúcia Moreira-Antunes,80,Homem
+2819,Alice-Rita Neto,81,Mulher
+2820,Vítor Pereira,89,Mulher
+2821,Gabriel de Amorim,40,Homem
+2822,Fabiana Henriques,56,Homem
+2823,Benedita Magalhães,25,Mulher
+2824,Erica Henriques,75,Homem
+2825,Duarte Pires,46,Homem
+2826,Valentina Ferreira-Moura,23,Homem
+2827,Ricardo Rocha,67,Mulher
+2828,Carminho Neto,82,Homem
+2829,Matilde Alves,51,Mulher
+2830,Álvaro Miranda,57,Mulher
+2831,Carlos Batista,75,Mulher
+2832,Débora Garcia,79,Mulher
+2833,Violeta Pacheco-Guerreiro,69,Mulher
+2834,Gonçalo Amaral-Cunha,87,Mulher
+2835,Diana Pacheco-Castro,52,Homem
+2836,Ângela da Sousa,55,Homem
+2837,Sérgio Ramos,78,Homem
+2838,Gil Cunha,75,Mulher
+2839,Ana Barros,70,Mulher
+2840,Alícia Amaral,53,Mulher
+2842,Marcos Domingues,32,Mulher
+2843,Gabriela Anjos,28,Mulher
+2844,Francisco Esteves-Lopes,85,Homem
+2845,Noah Antunes,51,Homem
+2848,Adriana da Marques,31,Mulher
+2849,Fernando Vieira,55,Homem
+2850,Luciana do Pinto,80,Homem
+2851,Rui Monteiro-Maia,88,Homem
+2852,Gaspar Nascimento,72,Homem
+2853,Débora Santos,42,Mulher
+2854,Carlota Vicente-Freitas,52,Mulher
+2855,Fabiana Machado,77,Mulher
+2857,Sandro Santos,88,Homem
+2858,Caetana-Bárbara Pereira,80,Mulher
+2859,Anita Campos,55,Homem
+2862,Francisca Macedo,99,Homem
+2863,Caetana Alves-Guerreiro,79,Mulher
+2864,Vicente Coelho,74,Mulher
+2865,Ana do Silva,10,Mulher
+2866,Igor Costa,38,Mulher
+2867,Vitória Faria,62,Mulher
+2868,Artur Monteiro,59,Homem
+2869,Noah Neto,54,Homem
+2870,Tatiana Pires-Rocha,84,Mulher
+2871,Anita Faria,50,Mulher
+2872,Ivan Magalhães,51,Mulher
+2873,Benjamim Fernandes,51,Mulher
+2874,Joel Neves,64,Homem
+2876,Luciana Anjos,27,Mulher
+2877,Gil Sá-Anjos,59,Mulher
+2878,Madalena Soares,57,Mulher
+2880,Martim Fernandes,23,Mulher
+2881,Débora Pereira,69,Mulher
+2882,Dinis Valente,69,Homem
+2883,Marco Melo,83,Homem
+2884,Leandro Pinheiro,66,Homem
+2885,Letícia Carvalho,31,Homem
+2886,Afonso Matias,76,Mulher
+2887,Bruna Alves,18,Mulher
+2888,Bárbara Miranda,58,Homem
+2889,Gabriel Mota,83,Mulher
+2890,Gil Neto-Ferreira,79,Homem
+2893,Isaac Pinho,74,Mulher
+2894,Luís Melo,42,Homem
+2895,Renato Castro,63,Mulher
+2896,Mia Oliveira,53,Homem
+2897,Bruna Domingues,78,Homem
+2898,Eduardo Baptista,22,Mulher
+2899,Lúcia Nunes-Carneiro,21,Mulher
+2900,Luana Alves-Fernandes,78,Homem
+2901,Bárbara do Morais,68,Mulher
+2903,Brian Ribeiro,48,Mulher
+2904,Amélia do Batista,61,Mulher
+2905,Ângelo Rocha,85,Mulher
+2906,Henrique Cunha,8,Mulher
+2907,Flor da Lima,53,Mulher
+2908,Pedro Moura,85,Homem
+2909,Adriana Lopes,74,Mulher
+2910,Bryan Fernandes,80,Homem
+2911,Mara Pires,50,Mulher
+2912,Filipa Marques,35,Mulher
+2913,Alícia-Alexandra Barbosa,75,Mulher
+2914,Iara Moura,72,Mulher
+2915,Ana Freitas-Vaz,78,Homem
+2916,Filipe Garcia,21,Homem
+2918,Irina Araújo,84,Homem
+2919,Soraia Almeida,64,Homem
+2920,Emanuel Cunha,76,Mulher
+2922,Simão Costa,90,Homem
+2923,Pilar Ferreira,65,Homem
+2924,Inês-Alice Martins,26,Mulher
+2925,Anita Freitas,39,Mulher
+2927,Filipe Pinto,62,Mulher
+2928,Laura Cunha,69,Mulher
+2929,Renata de Carvalho,75,Mulher
+2930,Erica Amorim-Abreu,52,Mulher
+2932,Yasmin Magalhães-Miranda,87,Mulher
+2933,Adriana Domingues,71,Mulher
+2934,Matilde Vicente,51,Mulher
+2935,Sofia Simões,37,Mulher
+2936,Juliana Vieira,73,Homem
+2937,Emanuel Pacheco-Barbosa,69,Homem
+2939,Lara Moreira,84,Homem
+2940,Bryan Amorim,80,Mulher
+2941,Gaspar Ramos,31,Mulher
+2942,Bruna Amorim,75,Homem
+2943,Ivo Anjos,55,Mulher
+2944,Leonor-Kyara Esteves,86,Mulher
+2945,Ângela Amaral,5,Homem
+2946,Ivan Leite,57,Mulher
+2947,Marcos Carvalho,32,Mulher
+2948,Bernardo Rodrigues,45,Mulher
+2949,Sebastião Pinto,31,Mulher
+2950,Igor Araújo-Pires,51,Mulher
+2951,Lia Carvalho-Ferreira,69,Mulher
+2952,Kyara Machado,79,Mulher
+2953,Benedita Lima,46,Homem
+2954,Luciana de Maia,63,Mulher
+2955,Helena-Margarida Mendes,51,Homem
+2957,Erica Leite,73,Mulher
+2958,Bryan Azevedo,74,Homem
+2961,Rafaela Simões,34,Mulher
+2962,Tomás Amaral,63,Homem
+2963,Vitória Reis,64,Homem
+2964,Afonso Leal,71,Homem
+2965,Diego Silva,48,Mulher
+2966,Maria Assunção,69,Homem
+2967,Inês Cardoso,61,Mulher
+2968,Duarte Matias,29,Mulher
+2969,Hugo Gomes,79,Mulher
+2970,Valentim de Moura,74,Mulher
+2971,Madalena Valente,16,Mulher
+2973,Soraia da Borges,31,Mulher
+2974,Luana Gaspar,61,Mulher
+2975,Emma-Laura Morais,63,Homem
+2976,Gil Carvalho,20,Mulher
+2977,Juliana do Moura,99,Mulher
+2978,Mafalda Nascimento,75,Mulher
+2979,Petra Esteves,64,Mulher
+2980,Matilde-Valentina Neto,78,Homem
+2981,Fernando Batista,79,Mulher
+2982,Irina-Alexandra Abreu,85,Homem
+2984,Leandro Soares,65,Mulher
+2985,Fábio Borges,44,Mulher
+2986,Margarida Lima,53,Mulher
+2987,Mia Figueiredo,41,Mulher
+2988,Ivo Borges,89,Homem
+2989,Mauro Soares,53,Homem
+2990,Álvaro Costa,54,Homem
+2991,Luana Esteves,64,Homem
+2992,Mariana Campos,60,Mulher
+2993,Emília Melo,21,Mulher
+2994,Matilde Sá,61,Mulher
+2995,Bruno Neto,55,Homem
+2996,Naiara da Assunção,74,Homem
+2997,Joana Barbosa,82,Mulher
+2998,Duarte Reis,38,Mulher
+2999,Camila-Laura Gonçalves,70,Mulher
+3000,Edgar Ribeiro,25,Mulher
+3001,Hugo Magalhães-Cardoso,80,Mulher
+3002,Lúcia Nogueira,73,Mulher
+3003,Leonardo Lima,80,Mulher
+3007,Petra Machado,34,Mulher
+3008,Eduardo do Machado,65,Mulher
+3009,Tomás Soares,39,Homem
+3012,Lúcia Mendes,85,Mulher
+3013,Salvador Gomes,69,Homem
+3014,Kyara-Andreia Santos,48,Homem
+3016,Carminho Macedo,83,Homem
+3017,Letícia-Camila Sousa,52,Mulher
+3018,Nádia Matos,86,Mulher
+3019,Bryan Cardoso-Rocha,52,Mulher
+3020,Adriana Castro,63,Homem
+3021,Edgar Vicente,45,Mulher
+3022,Marco Lima-Esteves,38,Mulher
+3023,Matias Pinto,43,Mulher
+3024,José Ferreira,51,Homem
+3025,Renata Morais,83,Mulher
+3026,Gaspar Torres-Mendes,85,Homem
+3027,Santiago Nascimento,79,Homem
+3028,Beatriz Gomes,64,Mulher
+3029,Mateus Baptista,88,Mulher
+3030,Miriam Gomes-Antunes,54,Homem
+3031,Mateus Marques,72,Mulher
+3032,Emanuel da Brito,85,Homem
+3033,Teresa Pinheiro,92,Homem
+3034,Fernando Almeida,65,Homem
+3035,Artur Domingues,73,Mulher
+3037,Diogo Melo,20,Mulher
+3040,Sara-Gabriela Monteiro,48,Mulher
+3041,Érica Ferreira-Vieira,81,Homem
+3042,Yasmin Moreira,82,Mulher
+3043,Valentina Torres,42,Mulher
+3044,Marta de Domingues,46,Homem
+3045,Gustavo Alves,50,Mulher
