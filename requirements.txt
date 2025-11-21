@@ -2,16 +2,14 @@ pylint==4.0.2
 black==25.9.0
 
 # data science
-pandas
-openpyxl
+pandas==2.3.3
+openpyxl==3.1.5
 
 # Data visualization
-matplotlib
-seaborn
-plotly
+matplotlib==3.10.7
 
 # streamlit
-streamlit
-watchdog
+streamlit==1.51.0
+watchdog==6.0.0
 
-kaleido
+kaleido==1.2.0
